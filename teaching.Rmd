@@ -1,10 +1,9 @@
 ---
 title: "Teaching"
 ---
-Below are the courses and all of them have support with Moodle platform. You can access as guest using [this url](http://virtualciencias.medellin.unal.edu.co/moodle/course/index.php?categoryid=8) with the password: <font color="#9938E9">antioquia</font>
 
 - 2020-20
-    - Modelos jerárquicos
+    - Modelos predictivos
     - Seminario II de maestría
     - Análisis de regresióna
 - 2020-10

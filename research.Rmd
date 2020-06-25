@@ -13,6 +13,7 @@ title: "Research"
 <hr>
 
 ### Publications
+- Hernández, F. y González-Herrera, L. G. (2020). "[Aplicación de modelos lineales mixtos para estudiar la producción de leche en vacas de la raza Lucerna](https://revistas.unal.edu.co/index.php/rfc). Revista de la Facultad de Ciencias, ISSN electrónico 2357-5549. ISSN impreso 0121-747X, 9(2), xx-xx.
 - Mazo, D. y Hernández, F. (2020) "[LOS RESIDUALES RQR: UNA MEDIDA DIAGNÓSTICA EN R PARA LOS MODELOS CUB](https://revistas.unal.edu.co/index.php/rfc/article/view/79512/73873)". Revista de la Facultad de Ciencias, ISSN electrónico 2357-5549. ISSN impreso 0121-747X, 9(1), 99-111.
 - Hernández, F., Usuga, O. y García, S. (2018)	"[cubm package in R to fit CUB models](http://revistas.usantotomas.edu.co/index.php/estadistica/article/view/11/pdf)". Comunicaciones en Estadística, ISSN electrónico 2339-3076. ISSN impreso 2027-3355, 11(2), 219-238.
 - Diaz, J. C., Hernández, F. y Usuga, O. (2018)	"[Paquete ZOIP de R para analizar datos proporcionales inflados con ceros y/o unos](http://revistas.usantotomas.edu.co/index.php/estadistica/article/view/3627/4154)". Comunicaciones en Estadística, ISSN electrónico 2339-3076. ISSN impreso 2027-3355, 11(1), 37-61.
