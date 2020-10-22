@@ -9,7 +9,7 @@ title: ""
 ```{r fig.asp=0.25, fig.align='center', echo=FALSE, eval=TRUE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/cover.png")
+img <- readPNG("imagenes/cover_redondo.png")
 grid.raster(img)
 ```
 
