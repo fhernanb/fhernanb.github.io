@@ -13,6 +13,7 @@
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -20,6 +21,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -31,6 +34,15 @@
 
   gtag('config', 'UA-113208418-1');
 </script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -399,6 +411,7 @@ $(document).ready(function () {
 <div id="publications" class="section level3">
 <h3>Publications</h3>
 <ul>
+<li>Hernández, F. y Cano, B. y Caicedo, E. (2021). “<a href="https://revistas.eia.edu.co/index.php/reveia/article/view/1439">Modelos GAMLSS para analizar el grado secado de calcio dihidratado</a>”. Revista EIA, e-ISSN 2463-0950, 18(35), 1-13.</li>
 <li>Hernández, F. y González-Herrera, L. G. (2020). “<a href="https://revistas.unal.edu.co/index.php/rfc">Aplicación de modelos lineales mixtos para estudiar la producción de leche en vacas de la raza Lucerna</a>”. Revista de la Facultad de Ciencias, ISSN electrónico 2357-5549. ISSN online 2357-5549, 9(2), 23-42.</li>
 <li>Mazo, D. y Hernández, F. (2020) “<a href="https://revistas.unal.edu.co/index.php/rfc/article/view/79512/73873">LOS RESIDUALES RQR: UNA MEDIDA DIAGNÓSTICA EN R PARA LOS MODELOS CUB</a>”. Revista de la Facultad de Ciencias, ISSN electrónico 2357-5549. ISSN online 2357-5549, 9(1), 99-111.</li>
 <li>Hernández, F., Usuga, O. y García, S. (2018) “<a href="https://revistas.usantotomas.edu.co/index.php/estadistica/article/view/3857">cubm package in R to fit CUB models</a>”. Comunicaciones en Estadística, ISSN electrónico 2339-3076. ISSN impreso 2027-3355, 11(2), 219-238.</li>
@@ -428,7 +441,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
