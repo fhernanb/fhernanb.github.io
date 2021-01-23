@@ -17,7 +17,7 @@ grid.raster(img)
 <br/>
 
 <p align="center">
-Abajo un gif del famoso Tablero de Galton.
+The famous Galton's board
 </p>
 
 <p align="center">
