@@ -5,9 +5,12 @@ title: "Students"
 Current students
 
 1. [Sara Garcés Céspedes](https://saragarcescespedes.github.io/index.html).
-2. Melissa Maya López.
-3. Jaime Mosquera Gutiérrez.
-4. Daniel Vásquez Mejía.
+2. Melissa Maya López (maes).
+3. Jaime Mosquera Gutiérrez (maes).
+4. Daniel Vásquez Mejía (maes).
+5. Daniel Alberto Candela (maes).
+6. Juan Sebastián Arboleda (maes).
+7. Omar Alexander Rios Saavedra (doc).
 
 M.Sc students
 
