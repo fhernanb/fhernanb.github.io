@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: my_html_files
+  output-dir: docs
 
 website:
   title: "FHB"
