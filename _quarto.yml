@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: my_html_files
+
+website:
+  title: "FHB"
+  description: "Webpage Freddy Hernández Barajas"
+  sidebar:
+    style: "docked"
+    search: true
+    background: "success"
+    border: true
+    logo: "imagenes/logounal.png"
+    tools: 
+      - icon: building
+        href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
+      - icon: file-earmark-person
+        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000000678
+      - icon: file-earmark-person-fill
+        href: https://orcid.org/0000-0001-7459-3329
+      - icon: github
+        href: https://github.com/fhernanb
+      - icon: twitter
+        href: https://twitter.com/fhernanb74
+        
+    contents:
+      - href: index.qmd
+      - about.qmd
+      - href: teaching.qmd
+      - href: research.qmd
+      - href: books.qmd
+      - href: students.qmd
+      - section: "#rstats"
+        contents:
+          - rpackages.qmd
+          - aplicaciones.qmd
+          - text: "Quarto Pubs"
+            href: https://freddy.quarto.pub/
+          - text: "R Pubs"
+            href: https://rpubs.com/fhernanb
+  
+  body-header: header.html
+  body-footer: footer.html
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+

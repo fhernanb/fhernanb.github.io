@@ -1,0 +1,65 @@
+---
+title: "Teaching"
+---
+
+- 2023-2
+    - Análisis multivariado (posgrado)
+    - Seminario de especialización (posgrado)
+    - xxxx (pregrado)
+- 2023-1
+    - Introducción al análisis multivariado (pregrado)
+    - Simulación estadística (pregrado)
+- 2022-2
+    - Modelos jerárquicos (pregrado)
+    - Técnicas computacionales en estadística (posgrado)
+    - Seminario de especialización (posgrado)
+- 2022-1
+    - Modelos Lineales Generalizados (posgrado)
+    - Simulación estadística (pregrado)
+- 2021-2
+    - Modelos jerárquicos (pregrado)
+    - Seminario II de maestría (posgrado)
+    - Seminario de especialización (posgrado)
+- 2021-1
+    - Modelos Lineales Generalizados (posgrado)
+    - Simulación estadística (pregrado)
+- 2020-2
+    - Modelos predictivos (posgrado)
+    - Seminario II de maestría (posgrado)
+    - Análisis de regresión (pregrado)
+- 2020-1
+    - Modelos Lineales Generalizados (posgrado)
+- 2019-2
+    - Modelos jerárquicos (pregrado)
+    - Seminario II de maestría (posgrado)
+    - Técnicas computacionales en estadística (posgrado)
+- 2019-1
+    - Simulación estadística (pregrado)
+    - Análisis de regresión (pregrado)
+- 2018-2
+    - Introducción al análisis multivariado (pregrado)
+    - Seminario II de maestría (posgrado)
+    - Técnicas computacionales en estadística (posgrado)
+- 2018-1
+    - Elementos de probabilidad y estadística (posgrado)
+    - Análisis de regresión (pregrado)
+- 2017-2
+    - Simulación estadística (pregrado)
+    - Análisis de regresión (pregrado)
+    - Seminario II de maestría (posgrado)
+- 2017-1
+    - Elementos de probabilidad y estadística (posgrado)
+    - Regresión y diseño de experimentos (posgrado)
+- 2016-2
+    - Análisis de regresión (pregrado)
+    - Introducción al análisis multivariado (posgrado)
+    - Seminario de especialización (posgrado)
+- 2016-1
+    - Simulación estadística (pregrado)
+    - Elementos de probabilidad y estadística (posgrado)
+- 2015-2
+    - Modelos jerárquicos (pregrado)
+    - Análisis de regresión (pregrado)
+- 2015-1
+    - Simulación estadística (pregrado)
+    - Elementos de probabilidad y estadística (posgrado)

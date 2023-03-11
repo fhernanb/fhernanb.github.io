@@ -1,0 +1,20 @@
+---
+title: "About me"
+---
+
+I am an Associated Professor of Statistic at [Universidad Nacional de Colombia](http://medellin.unal.edu.co/) Medellín. My research interests lie in statistics, statistical computing, generalized linear models, mixed models and simulation.
+
+email: fhernanb@unal.edu.co
+
+<center>
+![](imagenes/logounal.png){
+width=30% }
+</center>
+
+<br/>
+<br/>
+
+<center>
+![](imagenes/unal3.png){
+width=100% }
+</center>

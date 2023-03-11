@@ -1,0 +1,42 @@
+---
+title: "Books"
+---
+
+"Manual de R" is available [in this url](https://fhernanb.github.io/Manual-de-R/).
+
+<center>
+![](imagenes/cover_manualR.png){
+width=30% }
+</center>
+
+"Gráficos con R" is available [in this url](https://fhernanb.github.io/Graficos-con-R/).
+
+<center>
+![](imagenes/cover_graficosR.png){
+width=30% }
+</center>
+
+"Análisis de regresión con R" is available [in this url](https://fhernanb.github.io/libro_regresion/).
+
+<center>
+![](imagenes/cover_regresionR.png){
+width=30% }
+</center>
+
+"Modelos Mixtos con R" is available [in this url](https://fhernanb.github.io/libro_modelos_mixtos/).
+
+<center>
+![](imagenes/cover_mod_mix.png){
+width=30% }
+</center>
+
+"Modelos Predictivos" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
+
+<center>
+![](imagenes/cover_mod_pred.png){
+width=30% }
+</center>
+
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQ9w-jKaCqJsu7DoW60RY-tc7Ui-CtifUGKxn6AL03oGnL-XhxD2y9zbaMCNLRMAZVNPZC2oJK3pKZG/pub?embedded=true" style="width: 80%; height: 600px;"></iframe>

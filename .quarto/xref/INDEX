@@ -13,5 +13,11 @@
   },
   "teaching.qmd": {
     "teaching.html": "5f2a23f1"
+  },
+  "index.qmd": {
+    "index.html": "5872acac"
+  },
+  "about.qmd": {
+    "about.html": "1f8d0662"
   }
 }

@@ -1,0 +1,17 @@
+---
+title: "Students"
+---
+
+Current students 
+
+1. Omar Alexander Rios Saavedra (doc).
+1. Delia Ortega Lenis (doc).
+1. Jaime Mosquera Gutiérrez (maes).
+1. Carlos Andrés Agudelo (maes).
+
+M.Sc students 
+
+1. Sara Garcés Céspedes. [Propuesta de un paquete en R para la estimación de parámetros de algunos modelos de regresión con y sin covariables usando TensorFlow](https://repositorio.unal.edu.co/handle/unal/80677).
+1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](https://repositorio.unal.edu.co/handle/unal/76248).
+1. Juan Camilo Díaz Zapata. [Modelo de regresión mixto para datos proporcionales inflados con ceros y/o unos y creación del paquete ZOIP en R](https://repositorio.unal.edu.co/handle/unal/63743).
+1. Diana María Arango Botero. [Impacto de especificar incorrectamente la distribución de los efectos aleatorios en los modelos lineales generalizados mixtos: caso Poisson y Binomial Negativa](https://repositorio.unal.edu.co/handle/unal/59047).

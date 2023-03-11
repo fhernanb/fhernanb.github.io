@@ -1,0 +1,10 @@
+---
+title: "R packages"
+---
+Below are the R packages.
+
+- [stests](https://fhernanb.github.io/stests)
+- [usefultools](https://fhernanb.github.io/usefultools/)
+- [cubm](https://fhernanb.github.io/cubm)
+- [RelDists](https://ousuga.github.io/RelDists/)
+- [model](https://github.com/fhernanb/model)
