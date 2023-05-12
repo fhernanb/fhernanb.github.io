@@ -5,42 +5,42 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 
 ## Discrete distributions
 
-- [Uniform](http://gauss.medellin.unal.edu.co:3838/fhernanb/unif_disc)
-- [Binomial](http://gauss.medellin.unal.edu.co:3838/fhernanb/binomial/)
-- [Negative binomial version 1](http://gauss.medellin.unal.edu.co:3838/fhernanb/BinNeg01/)
-- [Negative binomial version 2](http://gauss.medellin.unal.edu.co:3838/fhernanb/BinNeg02/)
-- [Poisson](http://gauss.medellin.unal.edu.co:3838/fhernanb/poisson/)
-- [Geometric](http://gauss.medellin.unal.edu.co:3838/fhernanb/geometrica/)
-- [Hypergeometric](http://gauss.medellin.unal.edu.co:3838/fhernanb/hypergeom)
-- [ZIP](http://gauss.medellin.unal.edu.co:3838/fhernanb/ZIP/)
-- [ZTP](http://gauss.medellin.unal.edu.co:3838/fhernanb/ZTP)
+- [Uniform](https://huggingface.co/spaces/FreddyHernandez/discrete_uniform)
+- [Binomial](https://huggingface.co/spaces/FreddyHernandez/binomial/)
+- [Negative binomial version 1](https://huggingface.co/spaces/FreddyHernandez/neg_bin_01/)
+- [Negative binomial version 2](https://huggingface.co/spaces/FreddyHernandez/neg_bin_02/)
+- [Poisson](https://huggingface.co/spaces/FreddyHernandez/poisson/)
+- [Geometric](https://huggingface.co/spaces/FreddyHernandez/Geometric/)
+- [Hypergeometric](https://huggingface.co/spaces/FreddyHernandez/hypergeo)
+- [ZIP](https://huggingface.co/spaces/FreddyHernandez/ZIP/)
+- [ZTP](https://huggingface.co/spaces/FreddyHernandez/ZTP)
 
 ## Continuous distributions
 
-- [Normal](http://gauss.medellin.unal.edu.co:3838/fhernanb/normal/)
-- [Exponential](http://gauss.medellin.unal.edu.co:3838/fhernanb/exponential)
-- [Gamma](http://gauss.medellin.unal.edu.co:3838/fhernanb/gamma/)
-- [Logistic](http://gauss.medellin.unal.edu.co:3838/fhernanb/mylogis)
-- [Log-normal](http://gauss.medellin.unal.edu.co:3838/fhernanb/mylognor)
-- [Weibull](http://gauss.medellin.unal.edu.co:3838/fhernanb/weibull/)
-- [ZAGA](http://gauss.medellin.unal.edu.co:3838/fhernanb/ZAGA/)
-- [Cauchy](http://gauss.medellin.unal.edu.co:3838/fhernanb/cauchy/)
-- [Sample distributions (Normal, $\chi^2$, t-student and F)](http://gauss.medellin.unal.edu.co:3838/fhernanb//Dmuestrales/)
+- [Normal](https://huggingface.co/spaces/FreddyHernandez/normal/)
+- [Exponential](https://huggingface.co/spaces/FreddyHernandez/exponential)
+- [Gamma](https://huggingface.co/spaces/FreddyHernandez/gamma/)
+- [Logistic](https://huggingface.co/spaces/FreddyHernandez/mylogis)
+- [Log-normal](https://huggingface.co/spaces/FreddyHernandez/mylognor)
+- [Weibull](https://huggingface.co/spaces/FreddyHernandez/weibull/)
+- [ZAGA](https://huggingface.co/spaces/FreddyHernandez/ZAGA/)
+- [Cauchy](https://huggingface.co/spaces/FreddyHernandez/cauchy/)
+- [Sample distributions (Normal, $\chi^2$, t-student and F)](https://huggingface.co/spaces/FreddyHernandez/Dmuestrales/)
 
 ## General distributions
 
-- [Plotting a pdf](http://gauss.medellin.unal.edu.co:3838/fhernanb/pdf/)
-- [glm distributions](http://gauss.medellin.unal.edu.co:3838/fhernanb//glm_dists/)
-- [gamlss distributions](http://gauss.medellin.unal.edu.co:3838/fhernanb/all_dist_gamlss/)
+- [Plotting a pdf](https://huggingface.co/spaces/FreddyHernandez/pdf/)
+- [glm distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
+- [gamlss distributions](https://huggingface.co/spaces/FreddyHernandez/all_dist_gamlss/)
 
 ## Regression modeling
 
-- [Linear regression game](http://gauss.medellin.unal.edu.co:3838/fhernanb//linear_regression_game/)
-- [Linear mixed model with random intercept](http://gauss.medellin.unal.edu.co:3838/fhernanb/lmm_b0/)
-- [Linear mixed model with random intercept and slope](http://gauss.medellin.unal.edu.co:3838/fhernanb/lmm_b0b1/)
+- [Linear regression game](https://huggingface.co/spaces/FreddyHernandez/linear_regression_game/)
+- [Linear mixed model with random intercept](https://huggingface.co/spaces/FreddyHernandez/lmm_b0/)
+- [Linear mixed model with random intercept and slope](https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/)
 
 ## Other apps
 
-- [Sample size](http://gauss.medellin.unal.edu.co:3838/fhernanb/samplesize/)
-- [One variable analysis](http://gauss.medellin.unal.edu.co:3838/fhernanb/onevariable/)
-- [Goodness](http://gauss.medellin.unal.edu.co:3838/fhernanb/goodFit/)
+- [Sample size](https://huggingface.co/spaces/FreddyHernandez/samplesize/)
+- [One variable analysis](https://huggingface.co/spaces/FreddyHernandez/onevariable/)
+- [Goodness](https://huggingface.co/spaces/FreddyHernandez/goodFit/)

@@ -22,6 +22,8 @@ website:
         href: https://github.com/fhernanb
       - icon: twitter
         href: https://twitter.com/fhernanb74
+      - icon: youtube
+        href: https://www.youtube.com/@fhernanb1
         
     contents:
       - href: index.qmd
