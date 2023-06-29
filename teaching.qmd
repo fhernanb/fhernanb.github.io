@@ -4,7 +4,6 @@ title: "Teaching"
 
 - 2023-2
     - Análisis multivariado (posgrado)
-    - Seminario de especialización (posgrado)
     - Introducción al manejo de datos estadísticos (pregrado)
 - 2023-1
     - Introducción al análisis multivariado (pregrado)
