@@ -12,7 +12,7 @@ website:
     border: true
     logo: "imagenes/logounal.png"
     tools: 
-      - icon: building
+      - icon: buildings-fill
         href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
       - icon: file-earmark-person
         href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000000678
