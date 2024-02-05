@@ -2,7 +2,7 @@
 title: "Estadística II"
 ---
 
-Bienvenido a la página de apoyo del curso Estadística II. Abajo podrá el material.
+Bienvenido a la página de apoyo del curso Estadística II. Abajo podrá el material relacionado con el curso.
 
 Clase a clase
 
@@ -11,7 +11,7 @@ En [este enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBt
 Diapositivas
 
 - [Presentación del curso](https://drive.google.com/file/d/1O0InRjrucaNpL00--WrdfYz85F1bUWWn/view?usp=sharing).
-- Semana 1.
+- [Semana 1](https://drive.google.com/file/d/1O3AZlrRt2BCF14FB1k3C9wssnQKCD8wV/view?usp=sharing).
 - Semana 2.
 - Semana 3.
 - Semana 5.
