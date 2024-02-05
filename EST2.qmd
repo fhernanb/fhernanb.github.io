@@ -4,12 +4,13 @@ title: "Estadística II"
 
 Bienvenido a la página de apoyo del curso Estadística II. Abajo podrá el material.
 
-Programación clase a clase
+Clase a clase
 
+En [este enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBtym/view?usp=sharing) está la programación de lo que se va a realizar clase a clase.
 
 Diapositivas
 
-- Presentación del curso.
+- [Presentación del curso](https://drive.google.com/file/d/1O0InRjrucaNpL00--WrdfYz85F1bUWWn/view?usp=sharing).
 - Semana 1.
 - Semana 2.
 - Semana 3.
