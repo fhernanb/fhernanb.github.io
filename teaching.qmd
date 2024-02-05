@@ -3,8 +3,8 @@ title: "Teaching"
 ---
 
 - 2024-1
-    - [Estadística I](https://fhernanb.github.io/est1.html) (pregrado)
-    - [Estadística II](https://fhernanb.github.io/est2.html) (pregrado)
+    - [Estadística I](https://fhernanb.github.io/cur_est1.html) (pregrado)
+    - [Estadística II](https://fhernanb.github.io/cur_est2.html) (pregrado)
 - 2023-2
     - Análisis multivariado (posgrado)
     - Introducción al manejo de datos estadísticos (pregrado)
