@@ -1,0 +1,24 @@
+---
+title: "Estadística I"
+---
+
+Bienvenido a la página de apoyo del curso Estadística I. Abajo podrá el material relacionado con el curso.
+
+## Clase a clase
+
+En [este enlace]() está la programación de lo que se va a realizar clase a clase.
+
+## Diapositivas
+
+- [Presentación del curso]().
+- [Clase 1]().
+- Semana 2.
+- Semana 3.
+- Semana 5.
+- Semana 6.
+- Semana 7.
+- Semana 9.
+- Semana 10.
+- Semana 12.
+- Semana 14.
+
