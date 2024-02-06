@@ -4,21 +4,20 @@ title: "Estadística I"
 
 Bienvenido a la página de apoyo del curso Estadística I. Abajo encontrará material relacionado con el curso.
 
-## Clase a clase
+## Programación
 
 En [este enlace](https://drive.google.com/file/d/1g5u7ftt8SiOYX4-OxPAiKtqp14h8C5ZH/view?usp=sharing) está la programación de lo que se va a realizar clase a clase.
 
+## Moodle
+
+Todo el material del curso estará alojado en la plataforma Moodle [UNVIRTUAL](https://unvirtual.medellin.unal.edu.co/). Mis estudiantes en curso de Moodle estarán ubicados en el __Grupo 6__. 
+
 ## Diapositivas
 
+A continuación unas diapositivas complementarias a las que están en Moodle.
+
 - [Presentación del curso](https://drive.google.com/file/d/1OPmkUQiICoJEeRBxvPY1EuNtFoJHAXOg/view?usp=sharing).
-- [Clase 1]().
-- Semana 2.
-- Semana 3.
-- Semana 5.
-- Semana 6.
-- Semana 7.
-- Semana 9.
-- Semana 10.
-- Semana 12.
-- Semana 14.
+- Clase 1.
+
+
 

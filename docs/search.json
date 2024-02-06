@@ -158,7 +158,7 @@
     "href": "cur_est1.html#diapositivas",
     "title": "Estadística I",
     "section": "Diapositivas",
-    "text": "Diapositivas\n\nPresentación del curso.\nClase 1.\nSemana 2.\nSemana 3.\nSemana 5.\nSemana 6.\nSemana 7.\nSemana 9.\nSemana 10.\nSemana 12.\nSemana 14."
+    "text": "Diapositivas\nA continuación unas diapositivas complementarias a las que están en Moodle.\n\nPresentación del curso.\nClase 1."
   },
   {
     "objectID": "cur_est2.html",
@@ -208,5 +208,19 @@
     "title": "Estadística II",
     "section": "Ejercicios recomendados",
     "text": "Ejercicios recomendados\nPróximamente aquí podrá encontrar una lista de ejercicios.\n\nCapítulo 2."
+  },
+  {
+    "objectID": "cur_est1.html#programación",
+    "href": "cur_est1.html#programación",
+    "title": "Estadística I",
+    "section": "Programación",
+    "text": "Programación\nEn este enlace está la programación de lo que se va a realizar clase a clase."
+  },
+  {
+    "objectID": "cur_est1.html#moodle",
+    "href": "cur_est1.html#moodle",
+    "title": "Estadística I",
+    "section": "Moodle",
+    "text": "Moodle\nTodo el material del curso estará alojado en la plataforma Moodle UNVIRTUAL. Mis estudiantes en curso de Moodle estarán ubicados en el Grupo 6."
   }
 ]
