@@ -37,3 +37,5 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 ## Ejercicios recomendados
 
 Próximamente aquí podrá encontrar una lista de ejercicios.
+
+- [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html).
