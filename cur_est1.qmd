@@ -6,11 +6,11 @@ Bienvenido a la página de apoyo del curso Estadística I. Abajo podrá el mater
 
 ## Clase a clase
 
-En [este enlace]() está la programación de lo que se va a realizar clase a clase.
+En [este enlace](https://drive.google.com/file/d/1g5u7ftt8SiOYX4-OxPAiKtqp14h8C5ZH/view?usp=sharing) está la programación de lo que se va a realizar clase a clase.
 
 ## Diapositivas
 
-- [Presentación del curso]().
+- [Presentación del curso](https://drive.google.com/file/d/1OPmkUQiICoJEeRBxvPY1EuNtFoJHAXOg/view?usp=sharing).
 - [Clase 1]().
 - Semana 2.
 - Semana 3.
