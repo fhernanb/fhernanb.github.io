@@ -2,11 +2,16 @@
 title: "Estadística II"
 ---
 
-Bienvenido a la página de apoyo del curso Estadística II. Abajo podrá el material relacionado con el curso.
+Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará material relacionado con el curso.
 
-## Clase a clase
+## Programación
 
-En [este enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBtym/view?usp=sharing) está la programación de lo que se va a realizar clase a clase.
+En [este enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBtym/view?usp=sharing) está la programación detallada del curso y en [este otro enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBtym/view?usp=sharing) está el clase a clase.
+
+## Lecturas obligatorias
+
+- [Lectura 1](my_docs/docs_cur_est2/Lectura_RLS.pdf) sobre estimación por mínimos cuadrados ordinarios.
+- [Lectura 2](my_docs/docs_cur_est2/Lectura_muestreo.pdf) sobre cómo seleccionar la muestra.
 
 ## Diapositivas
 

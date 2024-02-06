@@ -144,7 +144,7 @@
     "href": "cur_est1.html",
     "title": "Estadística I",
     "section": "",
-    "text": "Bienvenido a la página de apoyo del curso Estadística I. Abajo podrá el material relacionado con el curso."
+    "text": "Bienvenido a la página de apoyo del curso Estadística I. Abajo encontrará material relacionado con el curso."
   },
   {
     "objectID": "cur_est1.html#clase-a-clase",
@@ -165,7 +165,7 @@
     "href": "cur_est2.html",
     "title": "Estadística II",
     "section": "",
-    "text": "Bienvenido a la página de apoyo del curso Estadística II. Abajo podrá el material relacionado con el curso."
+    "text": "Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará material relacionado con el curso."
   },
   {
     "objectID": "cur_est2.html#clase-a-clase",
@@ -187,5 +187,19 @@
     "title": "Estadística II",
     "section": "Videos",
     "text": "Videos\n\nModelos para entender una realidad caótica de DotCSV.\nRegresión Lineal y Mínimos Cuadrados Ordinarios de DotCSV.\nRegresión lineal con R - parte 1 de José Ignacio Hernández.\nRegresión lineal con R - parte 2 de José Ignacio Hernández."
+  },
+  {
+    "objectID": "cur_est2.html#programación",
+    "href": "cur_est2.html#programación",
+    "title": "Estadística II",
+    "section": "Programación",
+    "text": "Programación\nEn este enlace está la programación detallada del curso y en este otro enlace está el clase a clase."
+  },
+  {
+    "objectID": "cur_est2.html#lecturas-obligatorias",
+    "href": "cur_est2.html#lecturas-obligatorias",
+    "title": "Estadística II",
+    "section": "Lecturas obligatorias",
+    "text": "Lecturas obligatorias\n\nLectura 1 sobre estimación por mínimos cuadrados ordinarios.\nLectura 2 sobre cómo seleccionar la muestra."
   }
 ]

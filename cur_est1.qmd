@@ -2,7 +2,7 @@
 title: "Estadística I"
 ---
 
-Bienvenido a la página de apoyo del curso Estadística I. Abajo podrá el material relacionado con el curso.
+Bienvenido a la página de apoyo del curso Estadística I. Abajo encontrará material relacionado con el curso.
 
 ## Clase a clase
 
