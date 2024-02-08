@@ -21,8 +21,8 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 
 ## Diapositivas
 
-- [Presentación del curso](https://drive.google.com/file/d/1O0InRjrucaNpL00--WrdfYz85F1bUWWn/view?usp=sharing).
-- [Semana 1](https://drive.google.com/file/d/1O3AZlrRt2BCF14FB1k3C9wssnQKCD8wV/view?usp=sharing).
+- [Presentación del curso](my_docs/docs_cur_est2/Presentacion_curso.pdf).
+- [Semana 1](my_docs/docs_cur_est2/Semana01.pdf).
 - Semana 2.
 
 ## Videos
