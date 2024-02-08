@@ -16,8 +16,8 @@ Todo el material del curso estará alojado en la plataforma Moodle [UNVIRTUAL](h
 
 A continuación unas diapositivas complementarias a las que están en Moodle.
 
-- [Presentación del curso](https://drive.google.com/file/d/1OPmkUQiICoJEeRBxvPY1EuNtFoJHAXOg/view?usp=sharing).
-- Clase 1.
+- [Presentación del curso](my_docs/docs_cur_est1/Presentacion_curso.pdf).
+- [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
 - Clase 2.
 
 
