@@ -8,6 +8,12 @@ Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará ma
 
 En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la programación detallada del curso y en [este otro enlace](https://drive.google.com/file/d/1O0PGYWhO5oV-4CsQQY67JkmvojPeBtym/view?usp=sharing) está el clase a clase.
 
+## Horarios de talleres y asesoría con el monitor
+
+- Taller: lunes de 4 a 6 pm en 46-301.
+- Taller: miércoles de 4 a 6 pm en 12-202.
+- Asesoría: martes de 2 a 4 pm 43-103
+
 ## Lecturas obligatorias
 
 - [Lectura 1](my_docs/docs_cur_est2/Lectura_RLS.pdf) sobre estimación por mínimos cuadrados ordinarios.
@@ -18,14 +24,6 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 - [Presentación del curso](https://drive.google.com/file/d/1O0InRjrucaNpL00--WrdfYz85F1bUWWn/view?usp=sharing).
 - [Semana 1](https://drive.google.com/file/d/1O3AZlrRt2BCF14FB1k3C9wssnQKCD8wV/view?usp=sharing).
 - Semana 2.
-- Semana 3.
-- Semana 5.
-- Semana 6.
-- Semana 7.
-- Semana 9.
-- Semana 10.
-- Semana 12.
-- Semana 14.
 
 ## Videos
 
@@ -36,6 +34,6 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 
 ## Ejercicios recomendados
 
-Próximamente aquí podrá encontrar una lista de ejercicios.
+Abajo una lista de ejercicios para practicar los temas vistos en clase.
 
 - [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html).

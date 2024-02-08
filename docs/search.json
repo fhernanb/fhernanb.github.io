@@ -158,7 +158,7 @@
     "href": "cur_est1.html#diapositivas",
     "title": "Estadística I",
     "section": "Diapositivas",
-    "text": "Diapositivas\nA continuación unas diapositivas complementarias a las que están en Moodle.\n\nPresentación del curso.\nClase 1."
+    "text": "Diapositivas\nA continuación unas diapositivas complementarias a las que están en Moodle.\n\nPresentación del curso.\nClase 1.\nClase 2."
   },
   {
     "objectID": "cur_est2.html",
@@ -179,7 +179,7 @@
     "href": "cur_est2.html#diapositivas",
     "title": "Estadística II",
     "section": "Diapositivas",
-    "text": "Diapositivas\n\nPresentación del curso.\nSemana 1.\nSemana 2.\nSemana 3.\nSemana 5.\nSemana 6.\nSemana 7.\nSemana 9.\nSemana 10.\nSemana 12.\nSemana 14."
+    "text": "Diapositivas\n\nPresentación del curso.\nSemana 1.\nSemana 2."
   },
   {
     "objectID": "cur_est2.html#videos",
@@ -207,7 +207,7 @@
     "href": "cur_est2.html#ejercicios-recomendados",
     "title": "Estadística II",
     "section": "Ejercicios recomendados",
-    "text": "Ejercicios recomendados\nPróximamente aquí podrá encontrar una lista de ejercicios.\n\nCapítulo 2."
+    "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase.\n\nCapítulo 2."
   },
   {
     "objectID": "cur_est1.html#programación",
@@ -222,5 +222,12 @@
     "title": "Estadística I",
     "section": "Moodle",
     "text": "Moodle\nTodo el material del curso estará alojado en la plataforma Moodle UNVIRTUAL. Mis estudiantes en curso de Moodle estarán ubicados en el Grupo 6."
+  },
+  {
+    "objectID": "cur_est2.html#horarios-de-talleres-y-asesoría-con-el-monitor",
+    "href": "cur_est2.html#horarios-de-talleres-y-asesoría-con-el-monitor",
+    "title": "Estadística II",
+    "section": "Horarios de talleres y asesoría con el monitor",
+    "text": "Horarios de talleres y asesoría con el monitor\n\nTaller: lunes de 4 a 6 pm en 46-301.\nTaller: miércoles de 4 a 6 pm en 12-202.\nAsesoría: martes de 2 a 4 pm 43-103"
   }
 ]
