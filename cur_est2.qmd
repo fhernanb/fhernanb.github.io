@@ -27,6 +27,7 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 
 ## Videos
 
+- [Curso de R gratuito](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
 - [Modelos para entender una realidad caótica](https://youtu.be/Sb8XVheowVQ?si=MvekYEI7GJzExhD3) de DotCSV.
 - [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://youtu.be/k964_uNn3l0?si=EEzUGJTM4bTND4S3) de DotCSV.
 - [Regresión lineal con R - parte 1](https://youtu.be/6pcsalqPQsQ?si=T8bixKPQI8WSQDyv&t=368) de José Ignacio Hernández.

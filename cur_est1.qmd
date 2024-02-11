@@ -20,5 +20,8 @@ A continuación unas diapositivas complementarias a las que están en Moodle.
 - [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
 - Clase 2.
 
+## Videos
 
+- [Curso de R gratuito](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
+- [EstadísticaUtil](https://www.youtube.com/@fhernanb1).
 
