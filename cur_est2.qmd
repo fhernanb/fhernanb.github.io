@@ -23,7 +23,7 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 
 - [Presentación del curso](my_docs/docs_cur_est2/Presentacion_curso.pdf).
 - [Semana 1](my_docs/docs_cur_est2/Semana01.pdf).
-- Semana 2.
+- [Semana 2](my_docs/docs_cur_est2/Semana02.html).
 
 ## Videos
 
@@ -35,7 +35,7 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 
 ## Ejercicios recomendados
 
-Abajo una lista de ejercicios para practicar los temas vistos en clase.
+Abajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide Montgomery (2002).
 
 - [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html).
 - Capítulo 3.
