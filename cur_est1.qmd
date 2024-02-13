@@ -18,7 +18,8 @@ A continuación unas diapositivas complementarias a las que están en Moodle.
 
 - [Presentación del curso](my_docs/docs_cur_est1/Presentacion_curso.pdf).
 - [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
-- Clase 2.
+- [Clase 2](my_docs/docs_cur_est1/Clase02.pdf).
+- [Clase 3](my_docs/docs_cur_est1/Clase03.pdf).
 
 ## Videos
 
