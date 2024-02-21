@@ -186,7 +186,7 @@
     "href": "cur_est2.html#videos",
     "title": "Estadística II",
     "section": "Videos",
-    "text": "Videos\n\nCurso de R gratuito.\nModelos para entender una realidad caótica de DotCSV.\nRegresión Lineal y Mínimos Cuadrados Ordinarios de DotCSV.\nRegresión lineal con R - parte 1 de José Ignacio Hernández.\nRegresión lineal con R - parte 2 de José Ignacio Hernández."
+    "text": "Videos\n\nCurso de R gratuito.\nModelos para entender una realidad caótica de DotCSV.\nRegresión Lineal y Mínimos Cuadrados Ordinarios de DotCSV.\nRegresión lineal con R - parte 1 de José Ignacio Hernández.\nRegresión lineal con R - parte 2 de José Ignacio Hernández.\nCurso completo de Estadística II."
   },
   {
     "objectID": "cur_est2.html#programación",
@@ -207,7 +207,7 @@
     "href": "cur_est2.html#ejercicios-recomendados",
     "title": "Estadística II",
     "section": "Ejercicios recomendados",
-    "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide Montgomery (2002).\n\nCapítulo 2.\nCapítulo 3."
+    "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide Montgomery (2002).\n\nCapítulo 2 sobre RLS.\nCapítulo 4 sobre residuales."
   },
   {
     "objectID": "cur_est1.html#programación",
