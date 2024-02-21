@@ -20,9 +20,18 @@ A continuación unas diapositivas complementarias a las que están en Moodle.
 - [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
 - [Clase 2](my_docs/docs_cur_est1/Clase02.pdf).
 - [Clase 3](my_docs/docs_cur_est1/Clase03.pdf).
+- [Clase 4](my_docs/docs_cur_est1/Clase04.pdf).
 
 ## Videos
 
 - [Curso de R gratuito](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
 - [EstadísticaUtil](https://www.youtube.com/@fhernanb1).
 
+## Sobre R commander
+
+A continuación se presenta el material relacionado para aprender R y R commander.
+
+- [Taller 1](my_docs/docs_cur_est1/rcmdr/Taller1.pdf) sobre tablas y gráficos.
+- [Base de datos gimnasio](my_docs/docs_cur_est1/rcmdr/gimnasio.xlsx) para el taller 1.
+- [Video](my_docs/docs_cur_est1/rcmdr/Video1.mp4) sobre el taller 1.
+- [Cuestionario](my_docs/docs_cur_est1/rcmdr/Taller2) sobre el video 2 del Moodle.

@@ -158,7 +158,7 @@
     "href": "cur_est1.html#diapositivas",
     "title": "Estadística I",
     "section": "Diapositivas",
-    "text": "Diapositivas\nA continuación unas diapositivas complementarias a las que están en Moodle.\n\nPresentación del curso.\nClase 1.\nClase 2.\nClase 3."
+    "text": "Diapositivas\nA continuación unas diapositivas complementarias a las que están en Moodle.\n\nPresentación del curso.\nClase 1.\nClase 2.\nClase 3.\nClase 4."
   },
   {
     "objectID": "cur_est2.html",
@@ -236,5 +236,12 @@
     "title": "Estadística I",
     "section": "Videos",
     "text": "Videos\n\nCurso de R gratuito.\nEstadísticaUtil."
+  },
+  {
+    "objectID": "cur_est1.html#sobre-r-commander",
+    "href": "cur_est1.html#sobre-r-commander",
+    "title": "Estadística I",
+    "section": "Sobre R commander",
+    "text": "Sobre R commander\nA continuación se presenta el material relacionado para aprender R y R commander.\n\nTaller 1 sobre tablas y gráficos.\nBase de datos gimnasio para el taller 1.\nVideo sobre el taller 1.\nCuestionario sobre el video 2 del Moodle."
   }
 ]
