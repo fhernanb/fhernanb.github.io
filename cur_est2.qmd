@@ -40,4 +40,5 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 Abajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide los capítulos del libro [Montgomery (2002)](https://www.amazon.com/-/es/Elizabeth-Geoffrey-Vining-Douglas-Montgomery/dp/9702403278).
 
 - [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html) sobre RLS.
-- Capítulo 4 sobre residuales.
+- [Capítulo 4](my_docs/docs_cur_est2/Ejer_cap4.html) sobre residuales y prueba de falta de ajuste.
+- [Capítulo 5](my_docs/docs_cur_est2/Ejer_cap5.html) sobre transformaciones.
