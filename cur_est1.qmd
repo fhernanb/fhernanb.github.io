@@ -17,13 +17,12 @@ Todo el material del curso estará alojado en la plataforma Moodle [UNVIRTUAL](h
 A continuación unas diapositivas complementarias a las que están en Moodle.
 
 - [Presentación del curso](my_docs/docs_cur_est1/Presentacion_curso.pdf).
-- [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
-- [Clase 2](my_docs/docs_cur_est1/Clase02.pdf).
-- [Clase 3](my_docs/docs_cur_est1/Clase03.pdf).
-- [Clase 4](my_docs/docs_cur_est1/Clase04.pdf).
-- [Clase 5](my_docs/docs_cur_est1/Clase05.pdf).
-- [Clase 6](my_docs/docs_cur_est1/Clase06.pdf).
-- [Clase 7](my_docs/docs_cur_est1/Clase07.pdf).
+- [Clase 1](my_docs/docs_cur_est1/Clase01.html).
+- [Clase 2](my_docs/docs_cur_est1/Clase02.html).
+- [Clase 3](my_docs/docs_cur_est1/Clase03.html).
+- [Clase 4](my_docs/docs_cur_est1/Clase04.html).
+- [Clase 5](my_docs/docs_cur_est1/Clase05.html).
+
 
 ## Videos
 
