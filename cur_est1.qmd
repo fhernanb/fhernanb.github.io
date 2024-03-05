@@ -38,3 +38,10 @@ A continuación se presenta el material relacionado para aprender R y R commande
 - [Video](my_docs/docs_cur_est1/rcmdr/Video1.mp4) sobre el taller 1.
 - [Video](my_docs/docs_cur_est1/rcmdr/Video2.mp4) sobre como importar datos con código, sin usar botones.
 - [Cuestionario](my_docs/docs_cur_est1/rcmdr/Cuestionario.pdf) sobre el video 2 del Moodle.
+
+## Ejercicios recomendados
+
+Abajo una lista de ejercicios para practicar los temas vistos en clase.
+
+- [Probabilidad](my_docs/docs_cur_est1/01-Ejercicios-sugeridos-para-probabilidad.html).
+- [Variables aleatorias](my_docs/docs_cur_est2/02-Ejercicios-sugeridos-para-probabilidad.html).
