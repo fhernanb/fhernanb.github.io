@@ -43,5 +43,5 @@ A continuación se presenta el material relacionado para aprender R y R commande
 
 Abajo una lista de ejercicios para practicar los temas vistos en clase.
 
-- [Probabilidad](my_docs/docs_cur_est1/01-ejer-proba.html).
-- [Variables aleatorias](my_docs/docs_cur_est1/02-ejer-va.html).
+- [Probabilidad](my_docs/docs_cur_est1/01_ejer_prob.html).
+- [Variables aleatorias](my_docs/docs_cur_est1/02_ejer_va.html).
