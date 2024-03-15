@@ -32,7 +32,8 @@ A continuación unas diapositivas complementarias a las que están en Moodle.
 
 ## Videos
 
-- [Curso de R gratuito](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
+- [Curso de R](https://youtube.com/playlist?list=PLdV8ntSOIL5SqS4-sbms4M_puIIucPwmh&si=a266a1bSGcGBwjkk).
+- [Curso de R Unal](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
 - [EstadísticaUtil](https://www.youtube.com/@fhernanb1).
 
 ## Sobre R commander
