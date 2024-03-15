@@ -53,3 +53,4 @@ Abajo una lista de ejercicios para practicar los temas vistos en clase.
 - [Variables aleatorias](my_docs/docs_cur_est1/02_ejer_va.html).
 - [Distribuciones discretas](my_docs/docs_cur_est1/03_ejer_dist_discre.html).
 - [Distribuciones continuas](my_docs/docs_cur_est1/04_ejer_dist_conti.html).
+- [Usando R para distribuciones](my_docs/docs_cur_est1/05_ejer_dist_R.html).
