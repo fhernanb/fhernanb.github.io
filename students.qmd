@@ -2,15 +2,18 @@
 title: "Students"
 ---
 
+I have had the opportunity to advise amazing students in their master's and doctoral studies. Below is a list of students with links to their theses.
+
 Current students 
 
 1. Omar Alexander Rios Saavedra (doc).
 1. Delia Ortega Lenis (doc).
-1. Jaime Mosquera Gutiérrez (maes).
 1. Carlos Andrés Agudelo (maes).
 
 M.Sc students 
 
+1. Juan Sebastián Arboleda [Modelo para la detección de errores asociados a la liquidación de la factura de energía en Antioquia]().
+1. Jaime Mosquera Gutiérrez [Implementation of flexible lifetime distributions in regression models to estimate survival times](https://drive.google.com/file/d/1fNsrtbBGWik4lqMRX3MGfjmIc8aDCuED/view?usp=sharing).
 1. Sara Garcés Céspedes. [Propuesta de un paquete en R para la estimación de parámetros de algunos modelos de regresión con y sin covariables usando TensorFlow](https://repositorio.unal.edu.co/handle/unal/80677).
 1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](https://repositorio.unal.edu.co/handle/unal/76248).
 1. Juan Camilo Díaz Zapata. [Modelo de regresión mixto para datos proporcionales inflados con ceros y/o unos y creación del paquete ZOIP en R](https://repositorio.unal.edu.co/handle/unal/63743).
