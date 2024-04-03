@@ -12,8 +12,8 @@ Current students
 
 M.Sc students 
 
-1. Juan Sebastián Arboleda [Modelo para la detección de errores asociados a la liquidación de la factura de energía en Antioquia]().
-1. Jaime Mosquera Gutiérrez [Implementation of flexible lifetime distributions in regression models to estimate survival times](https://drive.google.com/file/d/1fNsrtbBGWik4lqMRX3MGfjmIc8aDCuED/view?usp=sharing).
+1. Juan Sebastián Arboleda [Modelo para la detección de errores asociados a la liquidación de la factura de energía en Antioquia](my_docs/tesis_dirigidas/Trabajo_final_Juan_Arboleda.pdf).
+1. Jaime Mosquera Gutiérrez [Implementation of flexible lifetime distributions in regression models to estimate survival times](my_docs/tesis_dirigidas/Tesis_Jaime_Mosquera.pdf).
 1. Sara Garcés Céspedes. [Propuesta de un paquete en R para la estimación de parámetros de algunos modelos de regresión con y sin covariables usando TensorFlow](https://repositorio.unal.edu.co/handle/unal/80677).
 1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](https://repositorio.unal.edu.co/handle/unal/76248).
 1. Juan Camilo Díaz Zapata. [Modelo de regresión mixto para datos proporcionales inflados con ceros y/o unos y creación del paquete ZOIP en R](https://repositorio.unal.edu.co/handle/unal/63743).
