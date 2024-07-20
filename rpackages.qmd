@@ -1,10 +1,11 @@
 ---
 title: "R packages"
 ---
-Below are the R packages.
+Below, you can find the R packages developed by our team.
 
+- [RelDists](https://ousuga.github.io/RelDists/)
+- [RealDists](https://fhernanb.github.io/RealDists/)
+- [DiscreteDists](https://fhernanb.github.io/DiscreteDists/)
 - [stests](https://fhernanb.github.io/stests)
 - [usefultools](https://fhernanb.github.io/usefultools/)
-- [cubm](https://fhernanb.github.io/cubm)
-- [RelDists](https://ousuga.github.io/RelDists/)
-- [model](https://github.com/fhernanb/model)
+- [model](https://fhernanb.github.io/model/)

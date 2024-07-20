@@ -228,7 +228,7 @@
     "href": "rpackages.html",
     "title": "R packages",
     "section": "",
-    "text": "Below are the R packages.\n\nstests\nusefultools\ncubm\nRelDists\nmodel\n\n\n\n\n\n  Copyright © 2024, webpage made with Quarto ®.",
+    "text": "Below, you can find the R packages developed by our team.\n\nRelDists\nRealDists\nDiscreteDists\nstests\nusefultools\nmodel\n\n\n\n\n\n  Copyright © 2024, webpage made with Quarto ®.",
     "crumbs": [
       "#rstats",
       "R packages"
