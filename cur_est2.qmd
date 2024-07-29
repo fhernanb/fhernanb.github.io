@@ -55,4 +55,5 @@ Abajo una lista de ejercicios para practicar los temas vistos en clase. La numer
 Abajo una lista de ejercicios resueltos de los temas vistos en clase.
 
 - [Regresión lineal simple](https://drive.google.com/file/d/1gO-bfgcQvERAg9aP6ivR1BKN474fatd-/view?usp=sharing).
-- [Regresión lineal múltiple](https://drive.google.com/file/d/1gO7Qj4RC8BOaN_gdMET7yqyykgM_HT0L/view?usp=sharing).
+- [Regresión lineal múltiple parte 1](https://drive.google.com/file/d/1QIJQ1dzdknsL9JdL8gSBgMfS1KEt8zI0/view?usp=sharing).
+- [Regresión lineal múltiple parte 2](https://drive.google.com/file/d/1gO7Qj4RC8BOaN_gdMET7yqyykgM_HT0L/view?usp=sharing).

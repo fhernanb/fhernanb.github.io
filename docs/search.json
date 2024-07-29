@@ -79,6 +79,13 @@
     "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide los capítulos del libro Montgomery (2002).\n\nCapítulo 2 sobre RLS.\nCapítulo 4 sobre residuales y prueba de falta de ajuste.\nCapítulo 5 sobre transformaciones.\nCapítulo 3 sobre RLM."
   },
   {
+    "objectID": "cur_est2.html#ejemplos-resueltos",
+    "href": "cur_est2.html#ejemplos-resueltos",
+    "title": "Estadística II",
+    "section": "Ejemplos resueltos",
+    "text": "Ejemplos resueltos\nAbajo una lista de ejercicios resueltos de los temas vistos en clase.\n\nRegresión lineal simple.\nRegresión lineal múltiple parte 1.\nRegresión lineal múltiple parte 2."
+  },
+  {
     "objectID": "books.html",
     "href": "books.html",
     "title": "Books",
@@ -240,12 +247,5 @@
     "title": "TDG",
     "section": "",
     "text": "Lineamientos para dirección del (TDG)\n\n¿Qué es TDG?\nEl Trabajo de Grado (TDG) es una asignatura que hace parte del Componente Disciplinar o Profesional de tu programa de estudios, en la que consolidas y concretas un proceso de investigación, de creación o de innovación y que es fruto de la aplicación de tus conocimientos y de los métodos adquiridos durante tu proceso de formación universitaria.\nModalidades\n\nTrabajos investigativos:\n\nMonografía\nParticipación en proyectos de investigación\n\nPrácticas de extensión:\n\nPasantías\nParticipación en proyectos de extensión\nPrácticas docentes\nEmprendimiento empresarial\n\nAsignaturas de posgrado\n\nInformes\nPara el TDG en sus modalidades investigativa y extensión deben presentarse dos informes escritos y cortos que serán evaluados por el docente encargado.\nReuniones\nPara hacer un acompañamiento al estudiante en su TDG se deberán programar al menos dos reuniones donde el estudiante le contará al profesor las actividades que está realizando.\nLa información presentada aquí fue tomada de este enlace.\n\n\n\n\n  Copyright © 2024, webpage made with Quarto ®."
-  },
-  {
-    "objectID": "cur_est2.html#ejemplos-resueltos",
-    "href": "cur_est2.html#ejemplos-resueltos",
-    "title": "Estadística II",
-    "section": "Ejemplos resueltos",
-    "text": "Ejemplos resueltos\nAbajo una lista de ejercicios resueltos de los temas vistos en clase.\n\nRegresión lineal simple.\nRegresión lineal múltiple."
   }
 ]
