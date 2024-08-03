@@ -6,7 +6,7 @@ Bienvenido a la página de apoyo del curso Estadística I. Abajo encontrará mat
 
 ## Programación
 
-En [este enlace](my_docs/docs_cur_est1/Programa_01_2024.pdf) está la programación de lo que se va a realizar clase a clase.
+En [este enlace](my_docs/docs_cur_est1/Programa 01_2024_modificado.pdf) está la programación de lo que se va a realizar clase a clase.
 
 ## Moodle
 
