@@ -32,7 +32,7 @@ En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2024_01.pdf) está la pr
 - [Semana 7](my_docs/docs_cur_est2/Semana07.html).
 - [Semana 9](my_docs/docs_cur_est2/Semana09.html).
   - [Video semana 9 parte 1](https://youtu.be/JqS2uupB8wI).
-
+- [Semana 10](my_docs/docs_cur_est2/Semana10.html).
 
 ## Videos
 
