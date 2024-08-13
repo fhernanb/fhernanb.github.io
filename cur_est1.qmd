@@ -36,6 +36,7 @@ A continuación unas diapositivas complementarias a las que están en Moodle.
 - [Clase 11](my_docs/docs_cur_est1/Clase11.pdf).
   - [Video clase 11](https://youtu.be/V7EywsyfThY).
 - [Clase 12](my_docs/docs_cur_est1/Clase12.pdf).
+- [Clase 13](my_docs/docs_cur_est1/Clase13.pdf).
 
 ## Videos
 
@@ -64,3 +65,4 @@ Abajo una lista de ejercicios para practicar los temas vistos en clase.
 - [Usando R para distribuciones](my_docs/docs_cur_est1/05_ejer_dist_R.html).
 - [Distribuciones bivariadas](my_docs/docs_cur_est1/06_ejer_dist_bivariadas.html).
 - [Estimación](my_docs/docs_cur_est1/08_ejer_estimadores.html).
+- [Máxima Verosimilitud](my_docs/docs_cur_est1/09_ejer_EMV.html).
