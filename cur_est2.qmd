@@ -33,6 +33,8 @@ En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la program
 - [Semana 9](my_docs/docs_cur_est2/Semana09.html).
   - [Video semana 9 parte 1](https://youtu.be/JqS2uupB8wI).
 - [Semana 10](my_docs/docs_cur_est2/Semana10.html).
+- [Semana 12](my_docs/docs_cur_est2/Semana12.html).
+- [Semana 13](my_docs/docs_cur_est2/Semana13.html).
 
 ## Videos
 
