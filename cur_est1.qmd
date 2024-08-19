@@ -64,5 +64,6 @@ Abajo una lista de ejercicios para practicar los temas vistos en clase.
 - [Distribuciones continuas](my_docs/docs_cur_est1/04_ejer_dist_conti.html).
 - [Usando R para distribuciones](my_docs/docs_cur_est1/05_ejer_dist_R.html).
 - [Distribuciones bivariadas](my_docs/docs_cur_est1/06_ejer_dist_bivariadas.html).
+- [Teorema del Límite Central](my_docs/docs_cur_est1/07_ejer_TLC.html).
 - [Estimación](my_docs/docs_cur_est1/08_ejer_estimadores.html).
 - [Máxima Verosimilitud](my_docs/docs_cur_est1/09_ejer_EMV.html).
