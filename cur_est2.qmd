@@ -51,14 +51,13 @@ En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la program
 Abajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide los capítulos del libro [Montgomery (2002)](https://www.amazon.com/-/es/Elizabeth-Geoffrey-Vining-Douglas-Montgomery/dp/9702403278).
 
 - [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html) sobre RLS.
+- [Capítulo 3](my_docs/docs_cur_est2/Ejer_cap3.html) sobre RLM.
 - [Capítulo 4](my_docs/docs_cur_est2/Ejer_cap4.html) sobre residuales y prueba de falta de ajuste.
 - [Capítulo 5](my_docs/docs_cur_est2/Ejer_cap5.html) sobre transformaciones.
-- [Capítulo 3](my_docs/docs_cur_est2/Ejer_cap3.html) sobre RLM.
-- [Capítulo 5](my_docs/docs_cur_est2/Ejer_cap5.html) sobre RLM.
-- [Capítulo 6](my_docs/docs_cur_est2/Ejer_cap6.html) sobre RLM.
-- [Capítulo 8](my_docs/docs_cur_est2/Ejer_cap8.html) sobre RLM.
-- [Capítulo 9](my_docs/docs_cur_est2/Ejer_cap9.html) sobre RLM.
-- [Capítulo 10](my_docs/docs_cur_est2/Ejer_cap10.html) sobre RLM.
+- [Capítulo 6](my_docs/docs_cur_est2/Ejer_cap6.html) sobre balanceo e influencia.
+- [Capítulo 8](my_docs/docs_cur_est2/Ejer_cap8.html) sobre regresión con variables cualitativas.
+- [Capítulo 9](my_docs/docs_cur_est2/Ejer_cap9.html) sobre selección de variables.
+- [Capítulo 10](my_docs/docs_cur_est2/Ejer_cap10.html) sobre multicolinealidad.
 
 ## Ejemplos resueltos
 Abajo una lista de ejercicios resueltos de los temas vistos en clase.
