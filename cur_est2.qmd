@@ -67,3 +67,5 @@ Abajo una lista de ejercicios resueltos de los temas vistos en clase.
 - [Ejemplos MAS](https://drive.google.com/file/d/1D98VmdumGeG5UMFlgBQMkH9-kzWLP3Ta/view?usp=sharing).
 - [Cálculo de n para MAS](https://drive.google.com/file/d/1QLE48ZLH0BN58SWdI8y6exBv812Vu8K2/view?usp=sharing).
 - [Ejemplos MAE](https://drive.google.com/file/d/1XIOierANIJIZq-Dd7YNkpq4cHSTE11t_/view?usp=sharing).
+- [Cálculo de n para MAE](https://drive.google.com/file/d/1kE7Lxf1l5pNuJtodtuCHLYVG47eLVx36/view?usp=sharing).
+
