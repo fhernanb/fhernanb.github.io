@@ -3,9 +3,21 @@ title: "R packages"
 ---
 Below, you can find the R packages developed by our team.
 
+::: columns
+::: {.column width="30%"}
+
 - [RelDists](https://ousuga.github.io/RelDists/)
 - [RealDists](https://fhernanb.github.io/RealDists/)
 - [DiscreteDists](https://fhernanb.github.io/DiscreteDists/)
 - [stests](https://fhernanb.github.io/stests)
 - [usefultools](https://fhernanb.github.io/usefultools/)
 - [model](https://fhernanb.github.io/model/)
+
+:::
+
+::: {.column width="70%"}
+
+![](imagenes/panal.png){width=60%}
+
+:::
+:::
