@@ -11,7 +11,8 @@ Interests
 
 Publications 
 
-- Hernández-Barajas, F.,Usuga-Manco, O., Patino-Rodríguez, C.& Marmolejo-Ramos, F. (2024). Distributional modelling of positively skewed data via the flexible Weibull extension distribution. Australian & New Zealand Journal of Statistics, xx, 1-19. [link](https://doi.org/10.1111/anzs.12423).
+- Ortega-Lenis, D., Arango-Londoño, D., Hernández-Barajas, F. & Moraga, P. (2024). Effects of climate variability on the spatio-temporal distribution of Dengue in Valle del Cauca, Colombia, from 2001 to 2019. PLoS ONE, 19(10). [link](https://doi.org/10.1371/journal.pone.0311607).
+- Hernández-Barajas, F.,Usuga-Manco, O., Patino-Rodríguez, C.& Marmolejo-Ramos, F. (2024). Distributional modelling of positively skewed data via the flexible Weibull extension distribution. Australian & New Zealand Journal of Statistics, 66(3), 306-324. [link](https://doi.org/10.1111/anzs.12423).
 - Carvalho, F., de Souza, F., Hernandez-Barajas, F., Usuga-Manco, O., Amado, S. (2024). Odds ratio of occurrence of pain, postural changes, and disabilities of violinists. Journal of Bodywork and Movement Therapies, 39, 356-363. [link](https://doi.org/10.1016/j.jbmt.2024.03.012).
 - Khatin-Zadeh, O., Banaruee, H, Farsani, D., Hernandez-Barajas, F., Farina, M & Marmolejo-Ramos, F. (2024). Distributed embodiment of the Persian term dæqi:qæn in forward gestures. Journal of Cultural Cognitive Science, 16, 7081. [link](https://doi.org/10.1007/s41809-023-00136-0).
 - Rincón-Maya, C., Guevara-Carazas, F., Hernández-Barajas, F., Patino-Rodriguez, C., & Usuga-Manco, O. (2023). Remaining Useful Life Prediction of Lithium-Ion Battery Using ICC-CNN-LSTM Methodology. Energies, 16, 7081. [link](https://doi.org/10.3390/en16207081).
