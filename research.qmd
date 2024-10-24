@@ -11,6 +11,8 @@ Interests
 
 Publications 
 
+- Hernández-Barajas, F., Cuartas-Rendón, S., Usuga-Manco, O., & López-Ríos, V. (2024). Enseñando análisis de varianza de un solo factor usando rompecabezas del mapa de un país. Ciencia en Desarrollo, 15(2). [link](https://doi.org/10.19053/uptc.01217488.v15.n2.2024.17181).
+- Piedrahíta-García J. & Hernández-Barajas, F. (2024). stests: librería de R para realizar pruebas de hipótesis multivariadas. Ciencia en Desarrollo, 15(2). [link](https://doi.org/10.19053/uptc.01217488.v15.n2.2024.16145).
 - Ortega-Lenis, D., Arango-Londoño, D., Hernández-Barajas, F. & Moraga, P. (2024). Effects of climate variability on the spatio-temporal distribution of Dengue in Valle del Cauca, Colombia, from 2001 to 2019. PLoS ONE, 19(10). [link](https://doi.org/10.1371/journal.pone.0311607).
 - Hernández-Barajas, F.,Usuga-Manco, O., Patino-Rodríguez, C.& Marmolejo-Ramos, F. (2024). Distributional modelling of positively skewed data via the flexible Weibull extension distribution. Australian & New Zealand Journal of Statistics, 66(3), 306-324. [link](https://doi.org/10.1111/anzs.12423).
 - Carvalho, F., de Souza, F., Hernandez-Barajas, F., Usuga-Manco, O., Amado, S. (2024). Odds ratio of occurrence of pain, postural changes, and disabilities of violinists. Journal of Bodywork and Movement Therapies, 39, 356-363. [link](https://doi.org/10.1016/j.jbmt.2024.03.012).
