@@ -161,6 +161,17 @@
     ]
   },
   {
+    "objectID": "aplicaciones.html#hypothesis-testing",
+    "href": "aplicaciones.html#hypothesis-testing",
+    "title": "Shiny",
+    "section": "Hypothesis testing",
+    "text": "Hypothesis testing\n\nTest for variance\nTest for mean\nTest for proportion\nTest to compare two variances\nTest to compare two means\nTest to compare two proportions",
+    "crumbs": [
+      "#rstats",
+      "Shiny"
+    ]
+  },
+  {
     "objectID": "aplicaciones.html#other-apps",
     "href": "aplicaciones.html#other-apps",
     "title": "Shiny",

@@ -39,6 +39,14 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 - [Linear mixed model with random intercept](https://huggingface.co/spaces/FreddyHernandez/lmm_b0/)
 - [Linear mixed model with random intercept and slope](https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/)
 
+## Hypothesis testing
+- [Test for variance](https://huggingface.co/spaces/FreddyHernandez/ph_varianza)
+- [Test for mean](https://huggingface.co/spaces/FreddyHernandez/ph_media)
+- [Test for proportion](https://huggingface.co/spaces/FreddyHernandez/ph_proporcion)
+- [Test to compare two variances](https://huggingface.co/spaces/FreddyHernandez/ph_cociente_vars)
+- [Test to compare two means](https://huggingface.co/spaces/FreddyHernandez/ph_dif_medias)
+- [Test to compare two proportions](https://huggingface.co/spaces/FreddyHernandez/ph_dif_proporciones)
+
 ## Other apps
 
 - [Sample size](https://huggingface.co/spaces/FreddyHernandez/samplesize/)
