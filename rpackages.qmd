@@ -12,5 +12,5 @@ Below, you can find the R packages developed by our team.
 - [usefultools](https://fhernanb.github.io/usefultools/)
 - [model](https://fhernanb.github.io/model/)
 
-![](imagenes/panal.png){width=55%}
+![](imagenes/panal.png){width=75%}
 
