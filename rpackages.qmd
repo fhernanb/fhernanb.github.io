@@ -19,7 +19,7 @@ Below, you can find the R packages developed by our team.
 
 ::: {.column width="70%"}
 
-![](imagenes/panal.png){width=60%}
+![](imagenes/panal.png){width=55%}
 
 :::
 :::
