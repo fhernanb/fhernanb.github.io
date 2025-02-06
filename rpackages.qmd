@@ -9,6 +9,8 @@ Below, you can find the R packages developed by our team.
 - [RelDists](https://ousuga.github.io/RelDists/)
 - [RealDists](https://fhernanb.github.io/RealDists/)
 - [DiscreteDists](https://fhernanb.github.io/DiscreteDists/)
+- [ZeroOneDists](https://fhernanb.github.io/ZeroOneDists/)
+- [MultivDists](https://fhernanb.github.io/MultivDists/)
 - [stests](https://fhernanb.github.io/stests)
 - [usefultools](https://fhernanb.github.io/usefultools/)
 - [model](https://fhernanb.github.io/model/)
