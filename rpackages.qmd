@@ -3,7 +3,7 @@ title: "R packages"
 ---
 Below, you can find the R packages developed by our team.
 
-- [RelDists](https://ousuga.github.io/RelDists/)
+- [RelDists](https://fhernanb.github.io/RelDists/)
 - [RealDists](https://fhernanb.github.io/RealDists/)
 - [DiscreteDists](https://fhernanb.github.io/DiscreteDists/)
 - [ZeroOneDists](https://fhernanb.github.io/ZeroOneDists/)
