@@ -6,13 +6,7 @@ Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará ma
 
 ## Programación
 
-En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la programación detallada del curso.
-
-## Horarios de talleres y asesoría con el monitor
-
-- Taller: lunes de 4 a 6 pm en 46-301.
-- Taller: miércoles de 4 a 6 pm en 12-202.
-- Asesoría: martes de 2 a 4 pm 43-103
+En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la programación detallada del curso y el [clase a clase](my_docs/docs_cur_est2/Clase_a_clase.pdf) del curso.
 
 ## Lecturas obligatorias
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f2210bd562afeea94a782aef0e9c53a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -195,7 +195,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#programación" id="toc-programación" class="nav-link active" data-scroll-target="#programación">Programación</a></li>
-  <li><a href="#horarios-de-talleres-y-asesoría-con-el-monitor" id="toc-horarios-de-talleres-y-asesoría-con-el-monitor" class="nav-link" data-scroll-target="#horarios-de-talleres-y-asesoría-con-el-monitor">Horarios de talleres y asesoría con el monitor</a></li>
   <li><a href="#lecturas-obligatorias" id="toc-lecturas-obligatorias" class="nav-link" data-scroll-target="#lecturas-obligatorias">Lecturas obligatorias</a></li>
   <li><a href="#diapositivas" id="toc-diapositivas" class="nav-link" data-scroll-target="#diapositivas">Diapositivas</a></li>
   <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
@@ -229,15 +228,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará material relacionado con el curso.</p>
 <section id="programación" class="level2">
 <h2 class="anchored" data-anchor-id="programación">Programación</h2>
-<p>En <a href="my_docs/docs_cur_est2/Programa_modificado.pdf">este enlace</a> está la programación detallada del curso.</p>
-</section>
-<section id="horarios-de-talleres-y-asesoría-con-el-monitor" class="level2">
-<h2 class="anchored" data-anchor-id="horarios-de-talleres-y-asesoría-con-el-monitor">Horarios de talleres y asesoría con el monitor</h2>
-<ul>
-<li>Taller: lunes de 4 a 6 pm en 46-301.</li>
-<li>Taller: miércoles de 4 a 6 pm en 12-202.</li>
-<li>Asesoría: martes de 2 a 4 pm 43-103</li>
-</ul>
+<p>En <a href="my_docs/docs_cur_est2/Programa_modificado.pdf">este enlace</a> está la programación detallada del curso y el <a href="my_docs/docs_cur_est2/Clase_a_clase.pdf">clase a clase</a> del curso.</p>
 </section>
 <section id="lecturas-obligatorias" class="level2">
 <h2 class="anchored" data-anchor-id="lecturas-obligatorias">Lecturas obligatorias</h2>
@@ -396,6 +387,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -513,6 +506,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
