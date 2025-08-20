@@ -35,6 +35,7 @@ En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la program
 - [Curso de R Unal](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
 - [Modelos para entender una realidad caótica](https://youtu.be/Sb8XVheowVQ?si=MvekYEI7GJzExhD3) de DotCSV.
 - [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://youtu.be/k964_uNn3l0?si=EEzUGJTM4bTND4S3) de DotCSV.
+- [Regresión Lineal por máxima verosimilitud](https://youtu.be/S7MlHlpmeqk?si=7gBHN7riBjK2fMoW) de Oscar Contreras.
 - [Regresión lineal con R - parte 1](https://youtu.be/6pcsalqPQsQ?si=T8bixKPQI8WSQDyv&t=368) de José Ignacio Hernández.
 - [Regresión lineal con R - parte 2](https://youtu.be/_hOTTm9taEM?si=y6xzdu0wIuNjYrxt) de José Ignacio Hernández.
 - [Regresión lineal múltiple](https://youtube.com/playlist?list=PL2YDFFqqa6jdBIs_zAM_xp5grdQE3pLnz&si=ATuOFJJr5gpP_kI7).

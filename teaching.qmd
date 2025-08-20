@@ -3,10 +3,11 @@ title: "Teaching"
 ---
 
 - 2025-1 Sabbatical leave.
+    - [Estadística II](cur_est2.html) (pregrado).
 - 2024-2 Sabbatical leave.
 - 2024-1
     - Estadística I (pregrado).
-    - [Estadística II](cur_est2.html) (pregrado).
+    - Estadística II (pregrado).
 - 2023-2
     - Análisis multivariado (posgrado).
     - Introducción al manejo de datos estadísticos (pregrado).
