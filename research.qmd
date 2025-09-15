@@ -9,6 +9,11 @@ Interests
 - Simulation
 - Statistical computing
 
+Pre-prints
+
+- Marmolejo-Ramos, R., Perezgonzalez, J., Ospina, R., Hernandez-Barajas, F., Castillo, M., Izbicki, R., Stern, R. and Tejada J. (2025). Beyond p-values: Rethinking Statistical Frameworks for Addressing the Replication Crisis. PsyArXiv Preprints, [link](https://doi.org/10.31234/osf.io/8eu96_v1).
+
+
 Publications 
 
 - Rincón-Maya, C., Acosta-Gonzalez, D., Guevara-Carazas, F., Hernandez-Barajas, F., Patino-Rodríguez, C. & Manco-Usuga, O. (2025). Predictive Modeling of Electric Bicycle Battery Performance: Integrating Real-Time Sensor Data and Machine Learning Techniques. Sensors, 25(5). [link](https://doi.org/10.3390/s25051392).
