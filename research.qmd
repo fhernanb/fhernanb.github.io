@@ -16,7 +16,8 @@ Pre-prints
 
 Publications 
 
-- Rincón-Maya, C., Acosta-Gonzalez, D., Guevara-Carazas, F., Hernandez-Barajas, F., Patino-Rodríguez, C. & Manco-Usuga, O. (2025). Predictive Modeling of Electric Bicycle Battery Performance: Integrating Real-Time Sensor Data and Machine Learning Techniques. Sensors, 25(5). [link](https://doi.org/10.3390/s25051392).
+- Usuga-Manco, O., Hernandez-Barajas, F., Giampaoli, V. (2025). Modelling Interval Data with Random Intercepts: A Beta Regression Approach for Clustered and Longitudinal Structures. Modelling, 6(4). [link](https://doi.org/10.3390/modelling6040128).
+- Rincón-Maya, C., Acosta-Gonzalez, D., Guevara-Carazas, F., Hernandez-Barajas, F., Patino-Rodríguez, C. & Usuga-Manco, O. (2025). Predictive Modeling of Electric Bicycle Battery Performance: Integrating Real-Time Sensor Data and Machine Learning Techniques. Sensors, 25(5). [link](https://doi.org/10.3390/s25051392).
 - Martínez, C., Orrego, S., Giraldo, J., del Valle, J., Hernández-Barajas, F. & David, D. (2025). Autocorrelation as a critical factor of growth depensation of tropical trees in the Chocó biogeographic region. Ecological Modelling, 500. [link](https://doi.org/10.1016/j.ecolmodel.2024.110949).
 - Hernández-Barajas, F., Cuartas-Rendón, S., Usuga-Manco, O., & López-Ríos, V. (2024). Enseñando análisis de varianza de un solo factor usando rompecabezas del mapa de un país. Ciencia en Desarrollo, 15(2). [link](https://doi.org/10.19053/uptc.01217488.v15.n2.2024.17181).
 - Piedrahíta-García J. & Hernández-Barajas, F. (2024). stests: librería de R para realizar pruebas de hipótesis multivariadas. Ciencia en Desarrollo, 15(2). [link](https://doi.org/10.19053/uptc.01217488.v15.n2.2024.16145).
