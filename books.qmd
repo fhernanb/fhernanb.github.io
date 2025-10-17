@@ -30,7 +30,7 @@ width=30% }
 width=30% }
 </center>
 
-"Modelos Predictivos" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
+"Introducción a Machine Learning" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
 
 <center>
 ![](imagenes/cover_mod_pred.png){
