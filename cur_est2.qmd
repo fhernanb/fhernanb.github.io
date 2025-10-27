@@ -6,7 +6,7 @@ Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará ma
 
 ## Programación
 
-En [este enlace](my_docs/docs_cur_est2/Programa_modificado.pdf) está la programación detallada del curso y el [clase a clase](my_docs/docs_cur_est2/Clase_a_clase.pdf) del curso.
+En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2025-2S.pdf) está la programación detallada del curso y el [clase a clase](my_docs/docs_cur_est2/Clase_a_clase.pdf) del curso.
 
 ## Lecturas obligatorias
 

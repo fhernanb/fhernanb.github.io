@@ -1,53 +1,35 @@
 {
-  "research.qmd": {
-    "research.html": "694019e7"
-  },
-  "rpackages.qmd": {
-    "rpackages.html": "11e3212a"
-  },
-  "students.qmd": {
-    "students.html": "de28d960"
-  },
-  "tdg.qmd": {
-    "tdg.html": "ab583274"
-  },
-  "teaching.qmd": {
-    "teaching.html": "5f2a23f1"
-  },
-  "index.qmd": {
-    "index.html": "5872acac"
-  },
   "about.qmd": {
-    "about.html": "1f8d0662"
+    "about.html": "1d0cdcca"
   },
   "aplicaciones.qmd": {
-    "aplicaciones.html": "81a4208b"
+    "aplicaciones.html": "dc0bee10"
   },
   "books.qmd": {
-    "books.html": "0512c7ed"
-  },
-  "EST-II.qmd": {
-    "EST-II.html": "c877afda"
-  },
-  "EST2.qmd": {
-    "EST2.html": "9cf2ce5c"
-  },
-  "est2.qmd": {
-    "est2.html": "d92f129b"
-  },
-  "cursos/est1.qmd": {
-    "est1.html": "d2734a0f"
-  },
-  "cursos/est2.qmd": {
-    "est2.html": "34a230f1"
-  },
-  "est1.qmd": {
-    "est1.html": "23abcfba"
+    "books.html": "697b0b06"
   },
   "cur_est1.qmd": {
-    "cur_est1.html": "61f78574"
+    "cur_est1.html": "6879e5ad"
   },
   "cur_est2.qmd": {
-    "cur_est2.html": "8a089acb"
+    "cur_est2.html": "41d65fab"
+  },
+  "index.qmd": {
+    "index.html": "2eadb44f"
+  },
+  "research.qmd": {
+    "research.html": "10e39ae7"
+  },
+  "rpackages.qmd": {
+    "rpackages.html": "d3fffd3d"
+  },
+  "students.qmd": {
+    "students.html": "90c1e0df"
+  },
+  "tdg.qmd": {
+    "tdg.html": "8d70992d"
+  },
+  "teaching.qmd": {
+    "teaching.html": "f3b93eae"
   }
 }
