@@ -70,3 +70,8 @@ Abajo una lista de ejercicios resueltos de los temas vistos en clase.
 - [Scrits de R](https://github.com/fhernanb/Repo_curso_estadistica_2).
 - [Libro "Modelos de regresión con R"](https://fhernanb.github.io/libro_regresion/).
 
+## Horario de asesoría
+
+Martes y jueves de 2-3 pm usando google meet.
+
+Video call link: https://meet.google.com/tmn-hovv-jqo
