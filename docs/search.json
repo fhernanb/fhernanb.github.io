@@ -72,11 +72,18 @@
     "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide los capítulos del libro Montgomery (2002).\n\nCapítulo 2 sobre RLS.\nCapítulo 3 sobre RLM.\nCapítulo 4 sobre residuales y prueba de falta de ajuste.\nCapítulo 5 sobre transformaciones.\nCapítulo 6 sobre balanceo e influencia.\nCapítulo 8 sobre regresión con variables cualitativas.\nCapítulo 9 sobre selección de variables.\nCapítulo 10 sobre multicolinealidad."
   },
   {
-    "objectID": "cur_est2.html#ejemplos-resueltos",
-    "href": "cur_est2.html#ejemplos-resueltos",
+    "objectID": "cur_est2.html#ejemplos-resueltos-para-talleres",
+    "href": "cur_est2.html#ejemplos-resueltos-para-talleres",
     "title": "Estadística II",
-    "section": "Ejemplos resueltos",
-    "text": "Ejemplos resueltos\nAbajo una lista de ejercicios resueltos de los temas vistos en clase.\n\nRegresión lineal simple.\nRegresión lineal múltiple parte 1.\nRegresión lineal múltiple parte 2.\nEjemplos MAS.\nCálculo de n para MAS.\nEjemplos MAE.\nCálculo de n para MAE."
+    "section": "Ejemplos resueltos para talleres",
+    "text": "Ejemplos resueltos para talleres\nAbajo una lista de ejercicios resueltos de los temas vistos en clase.\n\nRegresión lineal simple.\nRegresión lineal múltiple parte 1.\nRegresión lineal múltiple parte 2.\nEjemplos MAS.\nCálculo de n para MAS.\nEjemplos MAE.\nCálculo de n para MAE."
+  },
+  {
+    "objectID": "cur_est2.html#enlaces-para-consultar-los-scripts",
+    "href": "cur_est2.html#enlaces-para-consultar-los-scripts",
+    "title": "Estadística II",
+    "section": "Enlaces para consultar los scripts",
+    "text": "Enlaces para consultar los scripts\n\nNotebook Python.\nScrits de R.\nLibro “Modelos de regresión con R”."
   },
   {
     "objectID": "books.html",
