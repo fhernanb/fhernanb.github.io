@@ -67,7 +67,7 @@ Abajo una lista de ejercicios resueltos de los temas vistos en clase.
 ## Enlaces para consultar los scripts
 
 - [Notebook Python](https://github.com/fhernanb/Python-para-estadistica/tree/master/03%20Regression).
-- [Scrits de R](https://github.com/fhernanb/Repo_curso_estadistica_2).
+- [Scripts de R](https://github.com/fhernanb/Repo_curso_estadistica_2).
 - [Libro "Modelos de regresión con R"](https://fhernanb.github.io/libro_regresion/).
 
 ## Horario de asesoría
