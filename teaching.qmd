@@ -2,8 +2,14 @@
 title: "Teaching"
 ---
 
-- 2025-1 Sabbatical leave.
+- 2026-2
+    - Análisis de regresión (pregrado).
+- 2026-1
+    - Seminario I (posgrado).
+    - Modelos predictivos (machine learning) (posgrado).
+- 2025-2 Sabbatical leave.
     - [Estadística II](cur_est2.html) (pregrado).
+- 2025-1 Sabbatical leave.
 - 2024-2 Sabbatical leave.
 - 2024-1
     - Estadística I (pregrado).

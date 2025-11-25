@@ -6,7 +6,6 @@ I have had the opportunity to advise amazing students in their master's and doct
 
 Current students 
 
-1. Omar Alexander Rios Saavedra (doc).
 1. Delia Ortega Lenis (doc).
 
 M.Sc students 
@@ -18,3 +17,10 @@ M.Sc students
 1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](https://repositorio.unal.edu.co/handle/unal/76248).
 1. Juan Camilo Díaz Zapata. [Modelo de regresión mixto para datos proporcionales inflados con ceros y/o unos y creación del paquete ZOIP en R](https://repositorio.unal.edu.co/handle/unal/63743).
 1. Diana María Arango Botero. [Impacto de especificar incorrectamente la distribución de los efectos aleatorios en los modelos lineales generalizados mixtos: caso Poisson y Binomial Negativa](https://repositorio.unal.edu.co/handle/unal/59047).
+
+
+Ph. D. students
+
+1. Omar Alexander Rios Saavedra. [Propuesta de un modelo estadístico para
+estimar la volatilidad estocástica de un activo financiero usando un modelo de
+filtrado de partículas basado en Wavelets](https://repositorio.unal.edu.co).
