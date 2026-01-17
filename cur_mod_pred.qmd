@@ -1,0 +1,15 @@
+---
+title: "Modelos Predictivos"
+---
+
+Bienvenido a la página de apoyo del curso Modelos Predictivos. Abajo encontrará material relacionado con el curso.
+
+## Programación
+
+En [este enlace](my_docs/docs_cur_est1/Programa 01_2024_modificado.pdf) está la programación de lo que se va a realizar clase a clase.
+
+## Moodle
+
+Todo el material del curso estará alojado en la plataforma Moodle [UNVIRTUAL](https://unvirtual.medellin.unal.edu.co/). Mis estudiantes en curso de Moodle estarán ubicados en el __Grupo 6__. 
+
+
