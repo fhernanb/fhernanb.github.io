@@ -4,13 +4,13 @@ title: "Seminario de profundización I"
 
 Bienvenido a la página de apoyo del curso Seminario de Profundización I. Abajo encontrará material relacionado con el curso.
 
+## Diapositivas
+
+- [Presentación del curso](my_docs/docs_semi_1/Pres_curso_semi_1pdf).
+
 ## Programación
 
 En [este enlace](https://docs.google.com/document/d/16u1dw3v2TC4yrjAHmx8QFSoKXbinSuoB/edit?usp=sharing&ouid=100188500296005956678&rtpof=true&sd=true) está  el clase a clase del curso.
-
-## Diapositivas
-
-- [Presentación del curso](https://docs.google.com/presentation/d/1e83X_MB3XZ_XP-WAsOCCN2EWMvPkIlh1/edit?usp=sharing&ouid=100188500296005956678&rtpof=true&sd=true).
 
 ## Videos
 
@@ -18,8 +18,6 @@ En [este enlace](https://docs.google.com/document/d/16u1dw3v2TC4yrjAHmx8QFSoKXbi
 - [¿Para qué sirve investigar?](https://youtu.be/LBUGRDz4lPg?si=LsbPQVoLzGJ4wTZx).
 - [Bases de datos para conseguir artículos](https://youtube.com/playlist?list=PLVlJEb-ZJEHGuosHxGhijTzsmiyatyuoi&si=TXnbfVsrZn1hsciA).
 - [Normas APA](https://youtube.com/playlist?list=PLVlJEb-ZJEHFUmVknx9r4rKQlN52BpIDF&si=2b9NPVEPvoTfpo0c).
-
-
 - [¿Qué es LaTeX?](https://youtu.be/bOIQ5Uphz6Y?si=NzdbqAmX7apvk02Z).
 - [How I make presentations using LaTeX and Beamer](https://youtu.be/rx7wwtmFlD8?si=eTKMezeUrdxRChJv).
 - [Overleaf or Texstudio?](https://youtu.be/Pe336k5WW4Q?si=TEePmykDyasXBaXH).
