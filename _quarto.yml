@@ -23,7 +23,9 @@ website:
       - icon: twitter
         href: https://twitter.com/fhernanb74
       - icon: youtube
-        href: https://www.youtube.com/@fhernanb1
+        href: https://www.youtube.com/@estadistica_util
+      - icon: instagram
+        href: https://www.instagram.com/freddy_unal
         
     contents:
       - href: index.qmd
