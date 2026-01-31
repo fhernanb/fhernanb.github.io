@@ -6,11 +6,11 @@ Bienvenido a la página de apoyo del curso Seminario de Profundización I. Abajo
 
 ## Diapositivas
 
-- [Presentación del curso](my_docs/docs_cur_semi1/Pres_seminario_I.pdf).
+- [Presentación del curso](my_docs/docs_cur_semi1/Pres_seminario_I.html).
 
 ## Programación
 
-En [este enlace](my_docs/docs_cur_semi1/Clase_a_clase_semi_prof_I.pdf) está  el clase a clase del curso.
+En [este enlace](my_docs/docs_cur_semi1/Clase_a_clase_semi_prof_I.html) está  el clase a clase del curso.
 
 ## Videos
 
