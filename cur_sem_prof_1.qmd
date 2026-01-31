@@ -6,7 +6,7 @@ Bienvenido a la página de apoyo del curso Seminario de Profundización I. Abajo
 
 ## Diapositivas
 
-- [Presentación del curso](my_docs/docs_cur_semi_1/Pres_seminario_1.pdf).
+- [Presentación del curso](docs/my_docs/docs_cur_semi_1/Pres_seminario_1.pdf).
 
 ## Programación
 
