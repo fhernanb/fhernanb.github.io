@@ -1,0 +1,80 @@
+---
+title: "Estadística II"
+---
+
+Bienvenido a la página de apoyo del curso Estadística II. Abajo encontrará material relacionado con el curso.
+
+## Programación
+
+En [este enlace](my_docs/docs_cur_est2/Programa_3006915_2025-2S.pdf) está la programación detallada del curso y el [clase a clase](my_docs/docs_cur_est2/Clase_a_clase.pdf) del curso.
+
+## Lecturas obligatorias
+
+- [Lectura 1](my_docs/docs_cur_est2/Lectura_RLS.pdf) sobre estimación por mínimos cuadrados ordinarios.
+- [Lectura 2](my_docs/docs_cur_est2/Lectura_muestreo.pdf) sobre cómo seleccionar la muestra.
+
+## Diapositivas
+
+- [Presentación del curso](my_docs/docs_cur_est2/Presentacion_curso.pdf).
+- [Semana 1](my_docs/docs_cur_est2/Semana01.html).
+- [Semana 2](my_docs/docs_cur_est2/Semana02.html).
+- [Semana 3](my_docs/docs_cur_est2/Semana03.html).
+- [Semana 5](my_docs/docs_cur_est2/Semana05.html).
+- [Semana 6](my_docs/docs_cur_est2/Semana06.html).
+  - [Video semana 6 parte 2](https://youtu.be/v4QbzWKV-JA).
+- [Semana 7](my_docs/docs_cur_est2/Semana07.html).
+- [Semana 9](my_docs/docs_cur_est2/Semana09.html).
+  - [Video semana 9 parte 1](https://youtu.be/JqS2uupB8wI).
+- [Semana 10](my_docs/docs_cur_est2/Semana10.html).
+- [Semana 12](https://drive.google.com/file/d/1DHZNDUbc40Zj1PrcGFe2cQlTeHAFR6aq/view?usp=sharing).
+  - [Video semana 12 parte 2](https://youtu.be/fjgPB0tRLng).
+  - [Video semana 12 parte 3](https://youtu.be/T4NbWYglBHo).
+- [Semana 13](https://drive.google.com/file/d/1fnwMPTB2fZ5GdBfTSG6zHpP1zB-dWdhu/view?usp=sharing).
+  - [Video semana 13 parte 1](https://youtu.be/pUwxsN9rMLM).
+
+## Videos
+
+- [Curso de R](https://youtube.com/playlist?list=PLdV8ntSOIL5SqS4-sbms4M_puIIucPwmh&si=a266a1bSGcGBwjkk).
+- [Curso de R Unal](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
+- [Modelos para entender una realidad caótica](https://youtu.be/Sb8XVheowVQ?si=MvekYEI7GJzExhD3) de DotCSV.
+- [Regresión Lineal y Mínimos Cuadrados Ordinarios](https://youtu.be/k964_uNn3l0?si=EEzUGJTM4bTND4S3) de DotCSV.
+- [Regresión Lineal por máxima verosimilitud](https://youtu.be/S7MlHlpmeqk?si=7gBHN7riBjK2fMoW) de Oscar Contreras.
+- [Regresión lineal con R - parte 1](https://youtu.be/6pcsalqPQsQ?si=T8bixKPQI8WSQDyv&t=368) de José Ignacio Hernández.
+- [Regresión lineal con R - parte 2](https://youtu.be/_hOTTm9taEM?si=y6xzdu0wIuNjYrxt) de José Ignacio Hernández.
+- [Regresión lineal múltiple](https://youtube.com/playlist?list=PL2YDFFqqa6jdBIs_zAM_xp5grdQE3pLnz&si=ATuOFJJr5gpP_kI7).
+
+## Ejercicios recomendados
+
+Abajo una lista de ejercicios para practicar los temas vistos en clase. La numeración de los capítulos coincide los capítulos del libro [Montgomery (2002)](https://www.amazon.com/-/es/Elizabeth-Geoffrey-Vining-Douglas-Montgomery/dp/9702403278).
+
+- [Capítulo 2](my_docs/docs_cur_est2/Ejer_cap2.html) sobre RLS.
+- [Capítulo 3](my_docs/docs_cur_est2/Ejer_cap3.html) sobre RLM.
+- [Capítulo 4](my_docs/docs_cur_est2/Ejer_cap4.html) sobre residuales y prueba de falta de ajuste.
+- [Capítulo 5](my_docs/docs_cur_est2/Ejer_cap5.html) sobre transformaciones.
+- [Capítulo 6](my_docs/docs_cur_est2/Ejer_cap6.html) sobre balanceo e influencia.
+- [Capítulo 8](my_docs/docs_cur_est2/Ejer_cap8.html) sobre regresión con variables cualitativas.
+- [Capítulo 9](my_docs/docs_cur_est2/Ejer_cap9.html) sobre selección de variables.
+- [Capítulo 10](my_docs/docs_cur_est2/Ejer_cap10.html) sobre multicolinealidad.
+
+## Ejemplos resueltos para talleres
+Abajo una lista de ejercicios resueltos de los temas vistos en clase.
+
+- [Regresión lineal simple](https://drive.google.com/file/d/1gO-bfgcQvERAg9aP6ivR1BKN474fatd-/view?usp=sharing).
+- [Regresión lineal múltiple parte 1](https://drive.google.com/file/d/1QIJQ1dzdknsL9JdL8gSBgMfS1KEt8zI0/view?usp=sharing).
+- [Regresión lineal múltiple parte 2](https://drive.google.com/file/d/1OUB84AgZK0fQUk-wb78YvrlbPecv7Pay/view?usp=sharing).
+- [Ejemplos MAS](https://drive.google.com/file/d/1D98VmdumGeG5UMFlgBQMkH9-kzWLP3Ta/view?usp=sharing).
+- [Cálculo de n para MAS](https://drive.google.com/file/d/1QLE48ZLH0BN58SWdI8y6exBv812Vu8K2/view?usp=sharing).
+- [Ejemplos MAE](https://drive.google.com/file/d/1DOAQsHD0Qhebellr4gtLwaQxJoIZSAGL/view?usp=sharing).
+- [Cálculo de n para MAE](https://drive.google.com/file/d/1kE7Lxf1l5pNuJtodtuCHLYVG47eLVx36/view?usp=sharing).
+
+## Enlaces para consultar los scripts
+
+- [Notebook Python](https://github.com/fhernanb/Python-para-estadistica/tree/master/03%20Regression).
+- [Scripts de R](https://github.com/fhernanb/Repo_curso_estadistica_2).
+- [Libro "Modelos de regresión con R"](https://fhernanb.github.io/libro_regresion/).
+
+## Horario de asesoría
+
+Martes y jueves de 2-3 pm usando google meet.
+
+Video call link: https://meet.google.com/tmn-hovv-jqo

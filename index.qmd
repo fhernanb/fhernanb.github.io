@@ -1,0 +1,24 @@
+---
+title: "Home"
+---
+
+<center>
+<h2>Welcome to my webpage!!!</h1>
+</center>
+
+
+<center>
+![](imagenes/cover_redondo.png){
+width=20% }
+</center>
+
+<br/>
+<br/>
+
+<p align="center">
+The famous Galton's board
+</p>
+
+<p align="center">
+  <img src="imagenes/galton_board.gif" width="200">
+</p>

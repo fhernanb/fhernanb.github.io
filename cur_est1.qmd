@@ -1,0 +1,79 @@
+---
+title: "Estadística I"
+---
+
+Bienvenido a la página de apoyo del curso Estadística I. Abajo encontrará material relacionado con el curso.
+
+## Programación
+
+En [este enlace](my_docs/docs_cur_est1/Programa 01_2024_modificado.pdf) está la programación de lo que se va a realizar clase a clase.
+
+## Moodle
+
+Todo el material del curso estará alojado en la plataforma Moodle [UNVIRTUAL](https://unvirtual.medellin.unal.edu.co/). Mis estudiantes en curso de Moodle estarán ubicados en el __Grupo 6__. 
+
+## Diapositivas
+
+A continuación unas diapositivas complementarias a las que están en Moodle.
+
+- [Presentación del curso](my_docs/docs_cur_est1/Presentacion_curso.pdf).
+- [Clase 1](my_docs/docs_cur_est1/Clase01.pdf).
+- [Clase 2](my_docs/docs_cur_est1/Clase02.pdf).
+- [Clase 3](my_docs/docs_cur_est1/Clase03.pdf).
+- [Clase 4](my_docs/docs_cur_est1/Clase04.pdf).
+- [Clase 5](my_docs/docs_cur_est1/Clase05.pdf).
+- [Clase 6](my_docs/docs_cur_est1/Clase06.pdf).
+- [Clase 7](my_docs/docs_cur_est1/Clase07.pdf).
+  - [Video clase 7 parte 1](https://youtu.be/ABfuvkqRWd0).
+  - [Video clase 7 parte 2](https://youtu.be/oh1Z7ZxV3BU).
+- [Clase 8](my_docs/docs_cur_est1/Clase08.pdf).
+- [Clase 9](my_docs/docs_cur_est1/Clase09.pdf).
+  - [Video clase 9 parte 1](https://youtu.be/bbGG5ySlTDw).
+  - [Video clase 9 parte 2](https://youtu.be/A4XToQzBx8I).
+  - [Video clase 9 parte 3](https://youtu.be/biaP5CRhGGM).
+- [Clase 10](my_docs/docs_cur_est1/Clase10.pdf).
+  - [Video clase 10](https://youtu.be/YqJm-1FOq2c).
+- [Clase 11](my_docs/docs_cur_est1/Clase11.pdf).
+  - [Video clase 11](https://youtu.be/V7EywsyfThY).
+- [Clase 12](my_docs/docs_cur_est1/Clase12.pdf).
+- [Clase 13](my_docs/docs_cur_est1/Clase13.pdf).
+- [Clase 14](my_docs/docs_cur_est1/Clase14.pdf).
+- [Clase 15](my_docs/docs_cur_est1/Clase15.pdf).
+- [Clase 16](my_docs/docs_cur_est1/Clase16.pdf).
+- [Clase 17](my_docs/docs_cur_est1/Clase17.pdf).
+- [Clase 18](my_docs/docs_cur_est1/Clase18.pdf).
+- [Clase 19](my_docs/docs_cur_est1/Clase19.pdf).
+- [Clase 20](my_docs/docs_cur_est1/Clase20.pdf).
+  - [Video clase 20 parte 1](https://youtu.be/AHJSam714yk).
+  - [Video clase 20 parte 2](https://www.youtube.com/playlist?list=PLfX5C7cc6LRIO0m_RKY3kLqJDFmcbzJd_).
+
+
+## Videos
+
+- [Curso de R](https://youtube.com/playlist?list=PLdV8ntSOIL5SqS4-sbms4M_puIIucPwmh&si=a266a1bSGcGBwjkk).
+- [Curso de R Unal](https://youtu.be/QflFnrPVEwc?si=zEzOInrVt2Kqu61v).
+- [EstadísticaUtil](https://www.youtube.com/@fhernanb1).
+
+## Sobre R commander
+
+A continuación se presenta el material relacionado para aprender R y R commander.
+
+- [Taller 1](my_docs/docs_cur_est1/rcmdr/Taller1.pdf) sobre tablas y gráficos.
+- [Base de datos gimnasio](my_docs/docs_cur_est1/rcmdr/gimnasio.xlsx) para el taller 1.
+- [Video](my_docs/docs_cur_est1/rcmdr/Video1.mp4) sobre el taller 1.
+- [Video](my_docs/docs_cur_est1/rcmdr/Video2.mp4) sobre como importar datos con código, sin usar botones.
+- [Cuestionario](my_docs/docs_cur_est1/rcmdr/Cuestionario.pdf) sobre el video 2 del Moodle.
+
+## Ejercicios recomendados
+
+Abajo una lista de ejercicios para practicar los temas vistos en clase.
+
+- [Probabilidad](my_docs/docs_cur_est1/01_ejer_prob.html).
+- [Variables aleatorias](my_docs/docs_cur_est1/02_ejer_va.html).
+- [Distribuciones discretas](my_docs/docs_cur_est1/03_ejer_dist_discre.html).
+- [Distribuciones continuas](my_docs/docs_cur_est1/04_ejer_dist_conti.html).
+- [Usando R para distribuciones](my_docs/docs_cur_est1/05_ejer_dist_R.html).
+- [Distribuciones bivariadas](my_docs/docs_cur_est1/06_ejer_dist_bivariadas.html).
+- [Teorema del Límite Central](my_docs/docs_cur_est1/07_ejer_TLC.html).
+- [Estimación](my_docs/docs_cur_est1/08_ejer_estimadores.html).
+- [Máxima Verosimilitud](my_docs/docs_cur_est1/09_ejer_EMV.html).
