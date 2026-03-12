@@ -9,12 +9,17 @@ title: "Books"
 width=30% }
 </center>
 
+<br><br>
+
 "Gráficos con R" is available [in this url](https://fhernanb.github.io/Graficos-con-R/).
 
 <center>
 ![](imagenes/cover_graficosR.png){
 width=30% }
 </center>
+
+<br><br>
+
 
 "Análisis de regresión con R" is available [in this url](https://fhernanb.github.io/libro_regresion/).
 
@@ -23,12 +28,18 @@ width=30% }
 width=30% }
 </center>
 
+<br><br>
+
+
 "Modelos Mixtos con R" is available [in this url](https://fhernanb.github.io/libro_modelos_mixtos/).
 
 <center>
 ![](imagenes/cover_mod_mix.png){
 width=30% }
 </center>
+
+<br><br>
+
 
 "Introducción a Machine Learning" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
 

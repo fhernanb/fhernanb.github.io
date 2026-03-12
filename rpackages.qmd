@@ -3,14 +3,14 @@ title: "R packages"
 ---
 Below, you can find the R packages developed by our team.
 
-- [RelDists](https://fhernanb.github.io/RelDists/)
-- [RealDists](https://fhernanb.github.io/RealDists/)
-- [DiscreteDists](https://fhernanb.github.io/DiscreteDists/)
-- [ZeroOneDists](https://fhernanb.github.io/ZeroOneDists/)
-- [MultivDists](https://fhernanb.github.io/MultivDists/)
-- [stests](https://fhernanb.github.io/stests)
-- [usefultools](https://fhernanb.github.io/usefultools/)
-- [model](https://fhernanb.github.io/model/)
+- RelDists: [CRAN](https://cran.r-project.org/web/packages/RelDists/index.html), [webpage](https://fhernanb.github.io/RelDists/)
+- DiscreteDists: [CRAN](https://cran.r-project.org/web/packages/DiscreteDists/index.html), [webpage](https://fhernanb.github.io/DiscreteDists/)
+- ZeroOneDists: [CRAN](https://cran.r-project.org/web/packages/ZeroOneDists/index.html), [webpage](https://fhernanb.github.io/ZeroOneDists/)
+- RealDists: [webpage](https://fhernanb.github.io/RealDists/)
+- MultivDists: [webpage](https://fhernanb.github.io/MultivDists/)
+- stests: [webpage](https://fhernanb.github.io/stests)
+- usefultools: [webpage](https://fhernanb.github.io/usefultools/)
+- model: [webpage](https://fhernanb.github.io/model/)
 
 ![](imagenes/panal.png){width=75%}
 
