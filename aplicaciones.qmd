@@ -41,6 +41,6 @@ runGitHub(repo="semilleroApps",
           sub="01phvarianza")
 ```
 
-The list of all available apps can be [found here](https://github.com/fhernanb/semilleroApps) and correspond to the folder names as show in the following figure:
+The list of all available apps can be [found here](https://github.com/fhernanb/semilleroApps) and correspond to the folder names as shown in the following figure:
 
 <center>![](imagenes/apps_dispo.png){width="30%"}</center>

@@ -167,7 +167,7 @@
     "href": "aplicaciones.html#other-apps",
     "title": "Shiny",
     "section": "Other apps",
-    "text": "Other apps\n\nSample size\nGoodness of fit\n\n\nThere are more available shiny apps hosted in this GitHub repository. To deploy any app you can run the following R code changing sub=\"01phvarianza\" by the app name you want to deploy.\n\nif (!require(\"shiny\")) install.packages(\"shiny\")\nlibrary(shiny)\nrunGitHub(repo=\"semilleroApps\", \n          user=\"fhernanb\", \n          sub=\"01phvarianza\")\n\nThe list of all available apps can be found here and correspond to the folder names as show in the following figure:",
+    "text": "Other apps\n\nSample size\nGoodness of fit\n\n\nThere are more available shiny apps hosted in this GitHub repository. To deploy any app you can run the following R code changing sub=\"01phvarianza\" by the app name you want to deploy.\n\nif (!require(\"shiny\")) install.packages(\"shiny\")\nlibrary(shiny)\nrunGitHub(repo=\"semilleroApps\", \n          user=\"fhernanb\", \n          sub=\"01phvarianza\")\n\nThe list of all available apps can be found here and correspond to the folder names as shown in the following figure:",
     "crumbs": [
       "#rstats",
       "Shiny"
