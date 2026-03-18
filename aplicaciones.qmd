@@ -15,7 +15,8 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 
 - [Plotting a pdf](https://huggingface.co/spaces/FreddyHernandez/pdf/)
 - [Plotting a pmf](https://huggingface.co/spaces/FreddyHernandez/pmf)
-- [sample distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
+- [GLM distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
+- [sample distributions](https://huggingface.co/spaces/FreddyHernandez/Dmuestrales)
 
 ## Regression modeling
 
