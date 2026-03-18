@@ -130,50 +130,6 @@
     ]
   },
   {
-    "objectID": "aplicaciones.html#discrete-distributions",
-    "href": "aplicaciones.html#discrete-distributions",
-    "title": "Shiny",
-    "section": "Discrete distributions",
-    "text": "Discrete distributions\n\nUniform\nBinomial\nNegative binomial version 1\nNegative binomial version 2\nPoisson\nGeometric\nHypergeometric\nZIP\nZTP",
-    "crumbs": [
-      "#rstats",
-      "Shiny"
-    ]
-  },
-  {
-    "objectID": "aplicaciones.html#continuous-distributions",
-    "href": "aplicaciones.html#continuous-distributions",
-    "title": "Shiny",
-    "section": "Continuous distributions",
-    "text": "Continuous distributions\n\nNormal\nExponential\nGamma\nLogistic\nLog-normal\nWeibull\nZAGA\nCauchy\nSample distributions (Normal, \\(\\chi^2\\), t-student and F)",
-    "crumbs": [
-      "#rstats",
-      "Shiny"
-    ]
-  },
-  {
-    "objectID": "aplicaciones.html#general-distributions",
-    "href": "aplicaciones.html#general-distributions",
-    "title": "Shiny",
-    "section": "General distributions",
-    "text": "General distributions\n\nPlotting a pdf\nglm distributions\ngamlss distributions",
-    "crumbs": [
-      "#rstats",
-      "Shiny"
-    ]
-  },
-  {
-    "objectID": "aplicaciones.html#regression-modeling",
-    "href": "aplicaciones.html#regression-modeling",
-    "title": "Shiny",
-    "section": "Regression modeling",
-    "text": "Regression modeling\n\nLinear regression game\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
-    "crumbs": [
-      "#rstats",
-      "Shiny"
-    ]
-  },
-  {
     "objectID": "aplicaciones.html#hypothesis-testing",
     "href": "aplicaciones.html#hypothesis-testing",
     "title": "Shiny",
@@ -185,11 +141,33 @@
     ]
   },
   {
+    "objectID": "aplicaciones.html#about-distributions",
+    "href": "aplicaciones.html#about-distributions",
+    "title": "Shiny",
+    "section": "About distributions",
+    "text": "About distributions\n\nPlotting a pdf\nPlotting a pmf\nsample distributions",
+    "crumbs": [
+      "#rstats",
+      "Shiny"
+    ]
+  },
+  {
+    "objectID": "aplicaciones.html#regression-modeling",
+    "href": "aplicaciones.html#regression-modeling",
+    "title": "Shiny",
+    "section": "Regression modeling",
+    "text": "Regression modeling\n\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
+    "crumbs": [
+      "#rstats",
+      "Shiny"
+    ]
+  },
+  {
     "objectID": "aplicaciones.html#other-apps",
     "href": "aplicaciones.html#other-apps",
     "title": "Shiny",
     "section": "Other apps",
-    "text": "Other apps\n\nSample size\nOne variable analysis\nGoodness",
+    "text": "Other apps\n\nSample size\nGoodness of fit\n\n\nThere are more available shiny apps hosted in this GitHub repository. To deploy any app you can run the following R code changing sub=\"01phvarianza\" by the app name you want to deploy.\n\nif (!require(\"shiny\")) install.packages(\"shiny\")\nlibrary(shiny)\nrunGitHub(repo=\"semilleroApps\", \n          user=\"fhernanb\", \n          sub=\"01phvarianza\")\n\nThe list of all available apps can be found here and correspond to the folder names as show in the following figure:",
     "crumbs": [
       "#rstats",
       "Shiny"

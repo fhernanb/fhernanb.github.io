@@ -3,42 +3,6 @@ title: "Shiny"
 ---
 Below you can find Shiny apps to illustrate some statistical concepts.
 
-## Discrete distributions
-
-- [Uniform](https://huggingface.co/spaces/FreddyHernandez/discrete_uniform)
-- [Binomial](https://huggingface.co/spaces/FreddyHernandez/binomial/)
-- [Negative binomial version 1](https://huggingface.co/spaces/FreddyHernandez/neg_bin_01/)
-- [Negative binomial version 2](https://huggingface.co/spaces/FreddyHernandez/neg_bin_02/)
-- [Poisson](https://huggingface.co/spaces/FreddyHernandez/poisson/)
-- [Geometric](https://huggingface.co/spaces/FreddyHernandez/Geometric/)
-- [Hypergeometric](https://huggingface.co/spaces/FreddyHernandez/hypergeo)
-- [ZIP](https://huggingface.co/spaces/FreddyHernandez/ZIP/)
-- [ZTP](https://huggingface.co/spaces/FreddyHernandez/ZTP)
-
-## Continuous distributions
-
-- [Normal](https://huggingface.co/spaces/FreddyHernandez/normal/)
-- [Exponential](https://huggingface.co/spaces/FreddyHernandez/exponential)
-- [Gamma](https://huggingface.co/spaces/FreddyHernandez/gamma/)
-- [Logistic](https://huggingface.co/spaces/FreddyHernandez/mylogis)
-- [Log-normal](https://huggingface.co/spaces/FreddyHernandez/mylognor)
-- [Weibull](https://huggingface.co/spaces/FreddyHernandez/weibull/)
-- [ZAGA](https://huggingface.co/spaces/FreddyHernandez/ZAGA/)
-- [Cauchy](https://huggingface.co/spaces/FreddyHernandez/cauchy/)
-- [Sample distributions (Normal, $\chi^2$, t-student and F)](https://huggingface.co/spaces/FreddyHernandez/Dmuestrales/)
-
-## General distributions
-
-- [Plotting a pdf](https://huggingface.co/spaces/FreddyHernandez/pdf/)
-- [glm distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
-- [gamlss distributions](https://huggingface.co/spaces/FreddyHernandez/all_dist_gamlss/)
-
-## Regression modeling
-
-- [Linear regression game](https://huggingface.co/spaces/FreddyHernandez/linear_regression_game/)
-- [Linear mixed model with random intercept](https://huggingface.co/spaces/FreddyHernandez/lmm_b0/)
-- [Linear mixed model with random intercept and slope](https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/)
-
 ## Hypothesis testing
 - [Test for variance](https://huggingface.co/spaces/FreddyHernandez/ph_varianza)
 - [Test for mean](https://huggingface.co/spaces/FreddyHernandez/ph_media)
@@ -47,8 +11,35 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 - [Test to compare two means](https://huggingface.co/spaces/FreddyHernandez/ph_dif_medias)
 - [Test to compare two proportions](https://huggingface.co/spaces/FreddyHernandez/ph_dif_proporciones)
 
+## About distributions
+
+- [Plotting a pdf](https://huggingface.co/spaces/FreddyHernandez/pdf/)
+- [Plotting a pmf](https://huggingface.co/spaces/FreddyHernandez/pmf)
+- [sample distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
+
+## Regression modeling
+
+- [Linear mixed model with random intercept](https://huggingface.co/spaces/FreddyHernandez/lmm_b0/)
+- [Linear mixed model with random intercept and slope](https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/)
+
+
 ## Other apps
 
 - [Sample size](https://huggingface.co/spaces/FreddyHernandez/samplesize/)
-- [One variable analysis](https://huggingface.co/spaces/FreddyHernandez/onevariable/)
-- [Goodness](https://huggingface.co/spaces/FreddyHernandez/goodFit/)
+- [Goodness of fit](https://huggingface.co/spaces/FreddyHernandez/goodFit/)
+
+<br><br>
+
+There are more available shiny apps hosted in this [GitHub repository](https://github.com/fhernanb/semilleroApps). To deploy any app you can run the following R code changing `sub="01phvarianza"` by the app name you want to deploy. 
+
+```{r eval=FALSE}
+if (!require("shiny")) install.packages("shiny")
+library(shiny)
+runGitHub(repo="semilleroApps", 
+          user="fhernanb", 
+          sub="01phvarianza")
+```
+
+The list of all available apps can be [found here](https://github.com/fhernanb/semilleroApps) and correspond to the folder names as show in the following figure:
+
+<center>![](imagenes/apps_dispo.png){width="30%"}</center>

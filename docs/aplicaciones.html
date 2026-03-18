@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -69,35 +104,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -227,11 +233,9 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#discrete-distributions" id="toc-discrete-distributions" class="nav-link active" data-scroll-target="#discrete-distributions">Discrete distributions</a></li>
-  <li><a href="#continuous-distributions" id="toc-continuous-distributions" class="nav-link" data-scroll-target="#continuous-distributions">Continuous distributions</a></li>
-  <li><a href="#general-distributions" id="toc-general-distributions" class="nav-link" data-scroll-target="#general-distributions">General distributions</a></li>
+  <li><a href="#hypothesis-testing" id="toc-hypothesis-testing" class="nav-link active" data-scroll-target="#hypothesis-testing">Hypothesis testing</a></li>
+  <li><a href="#about-distributions" id="toc-about-distributions" class="nav-link" data-scroll-target="#about-distributions">About distributions</a></li>
   <li><a href="#regression-modeling" id="toc-regression-modeling" class="nav-link" data-scroll-target="#regression-modeling">Regression modeling</a></li>
-  <li><a href="#hypothesis-testing" id="toc-hypothesis-testing" class="nav-link" data-scroll-target="#hypothesis-testing">Hypothesis testing</a></li>
   <li><a href="#other-apps" id="toc-other-apps" class="nav-link" data-scroll-target="#other-apps">Other apps</a></li>
   </ul>
 </nav>
@@ -259,50 +263,6 @@ window.Quarto = {
 
 
 <p>Below you can find Shiny apps to illustrate some statistical concepts.</p>
-<section id="discrete-distributions" class="level2">
-<h2 class="anchored" data-anchor-id="discrete-distributions">Discrete distributions</h2>
-<ul>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/discrete_uniform">Uniform</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/binomial/">Binomial</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/neg_bin_01/">Negative binomial version 1</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/neg_bin_02/">Negative binomial version 2</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/poisson/">Poisson</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/Geometric/">Geometric</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/hypergeo">Hypergeometric</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/ZIP/">ZIP</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/ZTP">ZTP</a></li>
-</ul>
-</section>
-<section id="continuous-distributions" class="level2">
-<h2 class="anchored" data-anchor-id="continuous-distributions">Continuous distributions</h2>
-<ul>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/normal/">Normal</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/exponential">Exponential</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/gamma/">Gamma</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/mylogis">Logistic</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/mylognor">Log-normal</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/weibull/">Weibull</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/ZAGA/">ZAGA</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/cauchy/">Cauchy</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/Dmuestrales/">Sample distributions (Normal, <span class="math inline">\(\chi^2\)</span>, t-student and F)</a></li>
-</ul>
-</section>
-<section id="general-distributions" class="level2">
-<h2 class="anchored" data-anchor-id="general-distributions">General distributions</h2>
-<ul>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/pdf/">Plotting a pdf</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/glm_dists/">glm distributions</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/all_dist_gamlss/">gamlss distributions</a></li>
-</ul>
-</section>
-<section id="regression-modeling" class="level2">
-<h2 class="anchored" data-anchor-id="regression-modeling">Regression modeling</h2>
-<ul>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/linear_regression_game/">Linear regression game</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/lmm_b0/">Linear mixed model with random intercept</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/">Linear mixed model with random intercept and slope</a></li>
-</ul>
-</section>
 <section id="hypothesis-testing" class="level2">
 <h2 class="anchored" data-anchor-id="hypothesis-testing">Hypothesis testing</h2>
 <ul>
@@ -314,13 +274,40 @@ window.Quarto = {
 <li><a href="https://huggingface.co/spaces/FreddyHernandez/ph_dif_proporciones">Test to compare two proportions</a></li>
 </ul>
 </section>
+<section id="about-distributions" class="level2">
+<h2 class="anchored" data-anchor-id="about-distributions">About distributions</h2>
+<ul>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/pdf/">Plotting a pdf</a></li>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/pmf">Plotting a pmf</a></li>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/glm_dists/">sample distributions</a></li>
+</ul>
+</section>
+<section id="regression-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="regression-modeling">Regression modeling</h2>
+<ul>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/lmm_b0/">Linear mixed model with random intercept</a></li>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/">Linear mixed model with random intercept and slope</a></li>
+</ul>
+</section>
 <section id="other-apps" class="level2">
 <h2 class="anchored" data-anchor-id="other-apps">Other apps</h2>
 <ul>
 <li><a href="https://huggingface.co/spaces/FreddyHernandez/samplesize/">Sample size</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/onevariable/">One variable analysis</a></li>
-<li><a href="https://huggingface.co/spaces/FreddyHernandez/goodFit/">Goodness</a></li>
+<li><a href="https://huggingface.co/spaces/FreddyHernandez/goodFit/">Goodness of fit</a></li>
 </ul>
+<p><br><br></p>
+<p>There are more available shiny apps hosted in this <a href="https://github.com/fhernanb/semilleroApps">GitHub repository</a>. To deploy any app you can run the following R code changing <code>sub="01phvarianza"</code> by the app name you want to deploy.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">require</span>(<span class="st">"shiny"</span>)) <span class="fu">install.packages</span>(<span class="st">"shiny"</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shiny)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">runGitHub</span>(<span class="at">repo=</span><span class="st">"semilleroApps"</span>, </span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>          <span class="at">user=</span><span class="st">"fhernanb"</span>, </span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>          <span class="at">sub=</span><span class="st">"01phvarianza"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+<p>The list of all available apps can be <a href="https://github.com/fhernanb/semilleroApps">found here</a> and correspond to the folder names as show in the following figure:</p>
+<center>
+<img src="imagenes/apps_dispo.png" class="img-fluid" style="width:30.0%">
+</center>
 
 
 </section>
