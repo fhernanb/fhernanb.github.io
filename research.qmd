@@ -16,6 +16,8 @@ Pre-prints
 
 Publications 
 
+- Villada, J.G., Hernandez-Barajas, F., Usuga-Manco, O.C. (2026). The New Exponentiated Exponential (NEE) Distribution: Implementation and Simulation Study Within GAMLSS. In: Suárez, B.M., Conto, R., Hernández, F., Usuga, O., Patiño, C.E., Quiroz, C. (eds) National Meeting of R Users. R Day 2025. Communications in Computer and Information Science, vol 2824. Springer, Cham. [link](https://doi.org/10.1007/978-3-032-18455-9_1).
+- Ceballos, D.V., Hernandez-Barajas, F., Usuga-Manco, O.C. (2026). Implementation and Applications of the Unit Maxwell-Boltzmann Distribution in the Gamlss Framework for Environmental Data Analysis. In: Suárez, B.M., Conto, R., Hernández, F., Usuga, O., Patiño, C.E., Quiroz, C. (eds) National Meeting of R Users. R Day 2025. Communications in Computer and Information Science, vol 2824. Springer, Cham. [link](https://doi.org/10.1007/978-3-032-18455-9_4).
 - Chowdhury, S., Marozzi, M., Hernández-Barajas, F. Marmolejo-Ramos, F. (2026). Distinguishing between the exponential and Lindley distributions: An illustration from biological psychology. Behavior Research Methods, 58(63). [link](https://doi.org/10.3758/s13428-026-02942-0).
 - Usuga-Manco, O., Hernandez-Barajas, F., Giampaoli, V. (2025). Modelling Interval Data with Random Intercepts: A Beta Regression Approach for Clustered and Longitudinal Structures. Modelling, 6(4). [link](https://doi.org/10.3390/modelling6040128).
 - Rincón-Maya, C., Acosta-Gonzalez, D., Guevara-Carazas, F., Hernandez-Barajas, F., Patino-Rodríguez, C. & Usuga-Manco, O. (2025). Predictive Modeling of Electric Bicycle Battery Performance: Integrating Real-Time Sensor Data and Machine Learning Techniques. Sensors, 25(5). [link](https://doi.org/10.3390/s25051392).
