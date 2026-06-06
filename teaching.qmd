@@ -4,6 +4,7 @@ title: "Teaching"
 
 - 2026-2
     - Análisis de regresión (pregrado).
+    - Seminario de Especialización (posgrado).
 - 2026-1
     - [Seminario I - Maestría](cur_sem_prof_1.html) (posgrado).
     - Modelos predictivos (machine learning) (posgrado).
