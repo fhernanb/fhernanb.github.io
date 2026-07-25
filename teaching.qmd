@@ -5,8 +5,9 @@ title: "Teaching"
 - 2026-2
     - Análisis de regresión (pregrado).
     - Seminario de Especialización (posgrado).
+    - Seminario de Investigación I (posgrado)
 - 2026-1
-    - [Seminario I - Maestría](cur_sem_prof_1.html) (posgrado).
+    - [Seminario de profundización I - Maestría](cur_sem_prof_1.html) (posgrado).
     - Modelos predictivos (machine learning) (posgrado).
 - 2025-2 Sabbatical leave.
     - [Estadística II](cur_est2.html) (pregrado).
