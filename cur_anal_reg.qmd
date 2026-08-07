@@ -1,0 +1,14 @@
+---
+title: "Análisis de regresión"
+---
+
+Bienvenido a la página de apoyo del curso análisis de regresión. Abajo encontrará material relacionado con el curso.
+
+## Programación
+
+En [este enlace](my_docs/docs_cur_est1/Programa 01_2024_modificado.pdf) está la programación de lo que se va a realizar clase a clase.
+
+## Diapositivas
+
+A continuación las diapositivas que vamos a usar en el curso.
+

@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 
 - 2026-2
-    - Análisis de regresión (pregrado).
+    - [Análisis de regresión](cur_anal_reg.html) (pregrado).
     - Seminario de Especialización (posgrado).
     - Seminario de Investigación I (posgrado)
 - 2026-1

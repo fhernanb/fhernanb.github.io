@@ -278,5 +278,26 @@
     "title": "Estadística I",
     "section": "Ejercicios recomendados",
     "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase.\n\nProbabilidad.\nVariables aleatorias.\nDistribuciones discretas.\nDistribuciones continuas.\nUsando R para distribuciones.\nDistribuciones bivariadas.\nTeorema del Límite Central.\nEstimación.\nMáxima Verosimilitud."
+  },
+  {
+    "objectID": "cur_anal_reg.html",
+    "href": "cur_anal_reg.html",
+    "title": "Análisis de regresión",
+    "section": "",
+    "text": "Bienvenido a la página de apoyo del curso análisis de regresión. Abajo encontrará material relacionado con el curso."
+  },
+  {
+    "objectID": "cur_anal_reg.html#programación",
+    "href": "cur_anal_reg.html#programación",
+    "title": "Análisis de regresión",
+    "section": "Programación",
+    "text": "Programación\nEn este enlace está la programación de lo que se va a realizar clase a clase."
+  },
+  {
+    "objectID": "cur_anal_reg.html#diapositivas",
+    "href": "cur_anal_reg.html#diapositivas",
+    "title": "Análisis de regresión",
+    "section": "Diapositivas",
+    "text": "Diapositivas\nA continuación las diapositivas que vamos a usar en el curso."
   }
 ]
