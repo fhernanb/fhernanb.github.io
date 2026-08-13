@@ -8,7 +8,6 @@ Bienvenido a la página de apoyo del curso análisis de regresión. Abajo encont
 
 En [este enlace](my_docs/docs_cur_est1/Programa 01_2024_modificado.pdf) está la programación de lo que se va a realizar clase a clase.
 
-## Diapositivas
+## Repositorio de GitHub
 
-A continuación las diapositivas que vamos a usar en el curso.
-
+Existe un repositorio de GitHub con todo el material del curso, para consultar el repositorio [visite este enlace](https://github.com/fhernanb/curso_analisis_regresion).
