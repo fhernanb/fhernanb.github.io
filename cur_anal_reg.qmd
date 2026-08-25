@@ -11,3 +11,19 @@ En [este enlace](https://github.com/fhernanb/curso_analisis_regresion/blob/main/
 ## Repositorio de GitHub
 
 Existe un repositorio de GitHub con todo el material del curso, para consultar el repositorio [visite este enlace](https://github.com/fhernanb/curso_analisis_regresion).
+
+## Moodle
+
+El curso tiene el apoyo de la plataforma Moodle UNvirtual. Ingrese [a este enlace](https://unvirtual.medellin.unal.edu.co/course/view.php?id=2430) para visitar el curso en UNvirtual.
+
+<br>
+<br>
+<br>
+
+<center>
+![](imagenes/miniatura_anal_reg.png){
+width=60% }
+</center>
+
+
+
