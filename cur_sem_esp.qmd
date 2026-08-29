@@ -25,10 +25,11 @@ En [este enlace](https://docs.google.com/document/d/1YsHava3Rg2q7W0h_6DeDpT5nX0j
 - [Usando LaTeX en Overleaf](https://youtu.be/wGc125T8aIc?si=PcJnm9RcLrSKxImd).
 - [What is Prism?](https://youtu.be/iZk-I4M1Os0?si=yrPCfdVbOPRau6pw).
 
+[En este enlace](https://drive.google.com/drive/folders/17EF1jpCZrm8z86QCOwiHHSmkNAzAmotj?usp=sharing) hay una carpeta con videos cortos de cómo usar la plantilla de word para la monografía.
+
 ## Enlaces a las plantillas
 
 - [Diapositivas Beamer](https://es.overleaf.com/read/vkpnpyvmsxty#98bb0b).
 - [Poster eventos](https://es.overleaf.com/read/vvntztncdpts#1d55cb).
-- [Anteproyecto](https://es.overleaf.com/read/zhrvwxbjrkkd#2e13eb).
-- [Documento final](https://es.overleaf.com/read/ygbhcdfzgppv#0d5f51).
-
+- [Plantilla word para la monografía](https://repositorio.unal.edu.co/handle/unal/55405).
+- [Plantilla LaTeX para la monografía](https://es.overleaf.com/read/ygbhcdfzgppv#0d5f51).
