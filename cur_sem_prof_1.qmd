@@ -1,13 +1,13 @@
 ---
-title: "Seminario de profundización I"
+title: "Seminario de profundización I - investigación I"
 ---
 
-Bienvenido a la página de apoyo del curso Seminario de Profundización I. Abajo encontrará material relacionado con el curso.
+Bienvenido a la página de apoyo del curso Seminario de Profundización I e Investigación I. Abajo encontrará material relacionado con el curso.
 
 ## Diapositivas
 
 - [Presentación del curso](https://drive.google.com/file/d/1TYB5wP_1Xls5DjUivNmXs9W8Yk5Try2B/view?usp=sharing).
-- [Escritura científica](https://docs.google.com/presentation/d/1t_0RUYeIObOz56cwH7Ixh4degSyV_8HF/edit?usp=sharing&ouid=100188500296005956678&rtpof=true&sd=true).
+- [Escritura científica](https://drive.google.com/file/d/1NB5PTc1ohVSo_2LgGG5wZzt-10BxDvdB/view?usp=sharing).
 
 ## Programación
 
