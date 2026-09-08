@@ -6,7 +6,7 @@ Bienvenido a la página de apoyo del curso análisis de regresión. Abajo encont
 
 ## Programación
 
-En [este enlace](https://drive.google.com/file/d/1iv5uBw1Ly2hydj4P1NzwE3xZj4SPV4Tr/view?usp=sharing) está la presentación del curso y en este [otro enlace](https://github.com/fhernanb/curso_analisis_regresion/blob/main/CLASE_A_CLASE.pdf) está la programación clase a clase.
+En [este enlace](https://drive.google.com/file/d/1iv5uBw1Ly2hydj4P1NzwE3xZj4SPV4Tr/view?usp=sharing) está la presentación del curso y en este [otro enlace](https://docs.google.com/document/d/1XKVZKtK9Eh0MpxrloRJgKbOqw-xDzT5j/edit?usp=sharing&ouid=100188500296005956678&rtpof=true&sd=true) está la programación clase a clase.
 
  está la programación detallada del curso.
 
