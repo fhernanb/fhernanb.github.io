@@ -173,7 +173,7 @@
     "href": "aplicaciones.html#regression-modeling",
     "title": "Shiny",
     "section": "Regression modeling",
-    "text": "Regression modeling\n\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
+    "text": "Regression modeling\n\nLinear regression game.\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
     "crumbs": [
       "#rstats",
       "Shiny"

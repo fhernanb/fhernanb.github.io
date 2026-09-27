@@ -13,13 +13,14 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 
 ## About distributions
 
-- [Plotting a pdf](https://huggingface.co/spaces/FreddyHernandez/pdf/)
-- [Plotting a pmf](https://huggingface.co/spaces/FreddyHernandez/pmf)
+- [Plotting a pdf](https://01a0e3a1-f586-ff41-f64e-2c974899502d.share.connect.posit.cloud/)
+- [Plotting a pmf](https://01a0e3a3-88cf-3d82-5720-6bb6bf062675.share.connect.posit.cloud/)
 - [GLM distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
-- [sample distributions](https://huggingface.co/spaces/FreddyHernandez/Dmuestrales)
+- [sample distributions](https://01a0e3b1-79c0-a46a-3d5b-5b1558348da1.share.connect.posit.cloud/)
 
 ## Regression modeling
 
+- [Linear regression game](https://01a0e53c-71dd-9f7d-c9a4-7fd5a08b83f7.share.connect.posit.cloud/).
 - [Linear mixed model with random intercept](https://huggingface.co/spaces/FreddyHernandez/lmm_b0/)
 - [Linear mixed model with random intercept and slope](https://huggingface.co/spaces/FreddyHernandez/lmm_b0b1/)
 
@@ -27,7 +28,7 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 ## Other apps
 
 - [Sample size](https://huggingface.co/spaces/FreddyHernandez/samplesize/)
-- [Goodness of fit](https://huggingface.co/spaces/FreddyHernandez/goodFit/)
+- [Goodness of fit](https://01a0e3bb-8fec-1f5d-6de5-c500a13730db.share.connect.posit.cloud/)
 
 <br><br>
 
