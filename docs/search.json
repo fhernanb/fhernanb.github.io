@@ -102,7 +102,7 @@
     "href": "cur_sem_esp.html#seguimiento-a-las-actividades",
     "title": "Seminario de especialización",
     "section": "Seguimiento a las actividades",
-    "text": "Seguimiento a las actividades\n\nAsistencia.\nPresentaciones."
+    "text": "Seguimiento a las actividades\n\nAsistencia y cumplimiento de actividades.\nPresentaciones.\nCarpeta con los avances."
   },
   {
     "objectID": "rpackages.html",
@@ -162,7 +162,7 @@
     "href": "aplicaciones.html#about-distributions",
     "title": "Shiny",
     "section": "About distributions",
-    "text": "About distributions\n\nPlotting a pdf\nPlotting a pmf\nGLM distributions\nSample distributions",
+    "text": "About distributions\n\nPlotting a pdf\nPlotting a pmf\nGLM distributions\nsample distributions",
     "crumbs": [
       "#rstats",
       "Shiny"
@@ -173,7 +173,7 @@
     "href": "aplicaciones.html#regression-modeling",
     "title": "Shiny",
     "section": "Regression modeling",
-    "text": "Regression modeling\n\nLinear regression game.\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
+    "text": "Regression modeling\n\nLinear mixed model with random intercept\nLinear mixed model with random intercept and slope",
     "crumbs": [
       "#rstats",
       "Shiny"
@@ -294,13 +294,6 @@
     "text": "Enlaces a las plantillas\n\nDiapositivas Beamer.\nPoster eventos.\nAnteproyecto.\nDocumento final."
   },
   {
-    "objectID": "cur_sem_1_maes.html#seguimiento-de-las-actividades",
-    "href": "cur_sem_1_maes.html#seguimiento-de-las-actividades",
-    "title": "Seminario de profundización I - investigación I",
-    "section": "Seguimiento de las actividades",
-    "text": "Seguimiento de las actividades\nEn este enlace usted encontrará un seguimiento de las actividades realizadas."
-  },
-  {
     "objectID": "cur_est1.html",
     "href": "cur_est1.html",
     "title": "Estadística I",
@@ -348,5 +341,12 @@
     "title": "Estadística I",
     "section": "Ejercicios recomendados",
     "text": "Ejercicios recomendados\nAbajo una lista de ejercicios para practicar los temas vistos en clase.\n\nProbabilidad.\nVariables aleatorias.\nDistribuciones discretas.\nDistribuciones continuas.\nUsando R para distribuciones.\nDistribuciones bivariadas.\nTeorema del Límite Central.\nEstimación.\nMáxima Verosimilitud."
+  },
+  {
+    "objectID": "cur_sem_esp.html#ejemplos-de-monografías",
+    "href": "cur_sem_esp.html#ejemplos-de-monografías",
+    "title": "Seminario de especialización",
+    "section": "Ejemplos de monografías",
+    "text": "Ejemplos de monografías\nEn esta carpeta usted encontrará unas monografías de ejemplo. Puede usar estas monografías como punto de partida, la idea es que usted haga elabore una monografía de mayor nivel, tome los buenos ejemplos y corrija los malos ejemplos."
   }
 ]
