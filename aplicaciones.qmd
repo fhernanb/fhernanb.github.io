@@ -16,7 +16,7 @@ Below you can find Shiny apps to illustrate some statistical concepts.
 - [Plotting a pdf](https://01a0e3a1-f586-ff41-f64e-2c974899502d.share.connect.posit.cloud/)
 - [Plotting a pmf](https://01a0e3a3-88cf-3d82-5720-6bb6bf062675.share.connect.posit.cloud/)
 - [GLM distributions](https://huggingface.co/spaces/FreddyHernandez/glm_dists/)
-- [sample distributions](https://01a0e3b1-79c0-a46a-3d5b-5b1558348da1.share.connect.posit.cloud/)
+- [Sample distributions](https://01a0e3b1-79c0-a46a-3d5b-5b1558348da1.share.connect.posit.cloud/)
 
 ## Regression modeling
 

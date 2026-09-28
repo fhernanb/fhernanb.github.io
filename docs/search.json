@@ -162,7 +162,7 @@
     "href": "aplicaciones.html#about-distributions",
     "title": "Shiny",
     "section": "About distributions",
-    "text": "About distributions\n\nPlotting a pdf\nPlotting a pmf\nGLM distributions\nsample distributions",
+    "text": "About distributions\n\nPlotting a pdf\nPlotting a pmf\nGLM distributions\nSample distributions",
     "crumbs": [
       "#rstats",
       "Shiny"
